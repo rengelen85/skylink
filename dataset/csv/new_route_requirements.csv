@@ -1,0 +1,49 @@
+route_launch_id,role,sub_role,headcount_required,required_skill_id,ready_by_date,location_hub
+NR001,Pilot,Captain,9,TR_B787,2026-11-28,AMS
+NR001,Pilot,First Officer,11,TR_B787,2026-11-28,AMS
+NR001,Cabin Crew,Cabin Attendant,71,CQ_WIDE,2027-01-27,AMS
+NR001,Ground Staff,Ramp Agent,16,GC_RAMP,2027-02-26,AMS
+NR001,Ground Staff,Check-in Agent,12,GC_CHECKIN,2027-02-26,AMS
+NR001,Maintenance Engineer,B1 Engineer,3,MT_B787,2026-12-28,AMS
+NR002,Pilot,Captain,3,TR_A350,2026-11-28,MUC
+NR002,Pilot,First Officer,3,TR_A350,2026-11-28,MUC
+NR002,Cabin Crew,Cabin Attendant,40,CQ_WIDE,2027-01-27,MUC
+NR002,Ground Staff,Ramp Agent,11,GC_RAMP,2027-02-26,MUC
+NR002,Ground Staff,Check-in Agent,8,GC_CHECKIN,2027-02-26,MUC
+NR002,Maintenance Engineer,B1 Engineer,2,MT_A350,2026-12-28,MUC
+NR003,Pilot,Captain,5,TR_A330,2027-01-03,LIS
+NR003,Pilot,First Officer,6,TR_A330,2027-01-03,LIS
+NR003,Cabin Crew,Cabin Attendant,36,CQ_WIDE,2027-03-04,LIS
+NR003,Ground Staff,Ramp Agent,9,GC_RAMP,2027-04-03,LIS
+NR003,Ground Staff,Check-in Agent,7,GC_CHECKIN,2027-04-03,LIS
+NR003,Maintenance Engineer,B1 Engineer,2,MT_A330,2027-02-02,LIS
+NR004,Pilot,Captain,3,TR_A350,2027-02-01,FRA
+NR004,Pilot,First Officer,3,TR_A350,2027-02-01,FRA
+NR004,Cabin Crew,Cabin Attendant,32,CQ_WIDE,2027-04-02,FRA
+NR004,Ground Staff,Ramp Agent,9,GC_RAMP,2027-05-02,FRA
+NR004,Ground Staff,Check-in Agent,7,GC_CHECKIN,2027-05-02,FRA
+NR004,Maintenance Engineer,B1 Engineer,2,MT_A350,2027-03-03,FRA
+NR005,Pilot,Captain,3,TR_A320FAM,2026-11-28,BCN
+NR005,Pilot,First Officer,3,TR_A320FAM,2026-11-28,BCN
+NR005,Cabin Crew,Cabin Attendant,20,CQ_NARROW,2027-01-27,BCN
+NR005,Ground Staff,Ramp Agent,16,GC_RAMP,2027-02-26,BCN
+NR005,Ground Staff,Check-in Agent,12,GC_CHECKIN,2027-02-26,BCN
+NR005,Maintenance Engineer,B1 Engineer,3,MT_A320FAM,2026-12-28,BCN
+NR006,Pilot,Captain,2,TR_A220,2026-12-27,CPH
+NR006,Pilot,First Officer,2,TR_A220,2026-12-27,CPH
+NR006,Cabin Crew,Cabin Attendant,7,CQ_NARROW,2027-02-25,CPH
+NR006,Ground Staff,Ramp Agent,11,GC_RAMP,2027-03-27,CPH
+NR006,Ground Staff,Check-in Agent,8,GC_CHECKIN,2027-03-27,CPH
+NR006,Maintenance Engineer,B1 Engineer,2,MT_A220,2027-01-26,CPH
+NR007,Pilot,Captain,1,TR_A320FAM,2027-01-01,WAW
+NR007,Pilot,First Officer,1,TR_A320FAM,2027-01-01,WAW
+NR007,Cabin Crew,Cabin Attendant,5,CQ_NARROW,2027-03-02,WAW
+NR007,Ground Staff,Ramp Agent,7,GC_RAMP,2027-04-01,WAW
+NR007,Ground Staff,Check-in Agent,5,GC_CHECKIN,2027-04-01,WAW
+NR007,Maintenance Engineer,B1 Engineer,1,MT_A320FAM,2027-01-31,WAW
+NR008,Pilot,Captain,4,TR_A350,2027-05-04,ZRH
+NR008,Pilot,First Officer,6,TR_A350,2027-05-04,ZRH
+NR008,Cabin Crew,Cabin Attendant,40,CQ_WIDE,2027-07-03,ZRH
+NR008,Ground Staff,Ramp Agent,9,GC_RAMP,2027-08-02,ZRH
+NR008,Ground Staff,Check-in Agent,7,GC_CHECKIN,2027-08-02,ZRH
+NR008,Maintenance Engineer,B1 Engineer,2,MT_A350,2027-06-03,ZRH

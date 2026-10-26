@@ -1,0 +1,652 @@
+[
+  {
+    "airport_iata": "AMS",
+    "name": "Amsterdam Schiphol",
+    "city": "Amsterdam",
+    "country": "NL",
+    "latitude": 52.31,
+    "longitude": 4.76,
+    "timezone": "Europe/Amsterdam",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "FRA",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "country": "DE",
+    "latitude": 50.03,
+    "longitude": 8.57,
+    "timezone": "Europe/Berlin",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "MUC",
+    "name": "Munich Airport",
+    "city": "Munich",
+    "country": "DE",
+    "latitude": 48.35,
+    "longitude": 11.79,
+    "timezone": "Europe/Berlin",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "CDG",
+    "name": "Paris Charles de Gaulle",
+    "city": "Paris",
+    "country": "FR",
+    "latitude": 49.01,
+    "longitude": 2.55,
+    "timezone": "Europe/Paris",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "MAD",
+    "name": "Madrid Barajas",
+    "city": "Madrid",
+    "country": "ES",
+    "latitude": 40.47,
+    "longitude": -3.56,
+    "timezone": "Europe/Madrid",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "FCO",
+    "name": "Rome Fiumicino",
+    "city": "Rome",
+    "country": "IT",
+    "latitude": 41.8,
+    "longitude": 12.25,
+    "timezone": "Europe/Rome",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "BCN",
+    "name": "Barcelona El Prat",
+    "city": "Barcelona",
+    "country": "ES",
+    "latitude": 41.3,
+    "longitude": 2.08,
+    "timezone": "Europe/Madrid",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "LIS",
+    "name": "Lisbon Humberto Delgado",
+    "city": "Lisbon",
+    "country": "PT",
+    "latitude": 38.78,
+    "longitude": -9.14,
+    "timezone": "Europe/Lisbon",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "VIE",
+    "name": "Vienna Schwechat",
+    "city": "Vienna",
+    "country": "AT",
+    "latitude": 48.11,
+    "longitude": 16.57,
+    "timezone": "Europe/Vienna",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "ZRH",
+    "name": "Zurich Airport",
+    "city": "Zurich",
+    "country": "CH",
+    "latitude": 47.46,
+    "longitude": 8.55,
+    "timezone": "Europe/Zurich",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "CPH",
+    "name": "Copenhagen Kastrup",
+    "city": "Copenhagen",
+    "country": "DK",
+    "latitude": 55.62,
+    "longitude": 12.65,
+    "timezone": "Europe/Copenhagen",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "ARN",
+    "name": "Stockholm Arlanda",
+    "city": "Stockholm",
+    "country": "SE",
+    "latitude": 59.65,
+    "longitude": 17.92,
+    "timezone": "Europe/Stockholm",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "WAW",
+    "name": "Warsaw Chopin",
+    "city": "Warsaw",
+    "country": "PL",
+    "latitude": 52.17,
+    "longitude": 20.97,
+    "timezone": "Europe/Warsaw",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "ATH",
+    "name": "Athens Venizelos",
+    "city": "Athens",
+    "country": "GR",
+    "latitude": 37.94,
+    "longitude": 23.94,
+    "timezone": "Europe/Athens",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "DUB",
+    "name": "Dublin Airport",
+    "city": "Dublin",
+    "country": "IE",
+    "latitude": 53.43,
+    "longitude": -6.27,
+    "timezone": "Europe/Dublin",
+    "is_hub": 1
+  },
+  {
+    "airport_iata": "LHR",
+    "name": "London Airport",
+    "city": "London",
+    "country": "GB",
+    "latitude": 51.47,
+    "longitude": -0.45,
+    "timezone": "Europe/London",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "MAN",
+    "name": "Manchester Airport",
+    "city": "Manchester",
+    "country": "GB",
+    "latitude": 53.35,
+    "longitude": -2.27,
+    "timezone": "Europe/London",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Edinburgh",
+    "country": "GB",
+    "latitude": 55.95,
+    "longitude": -3.37,
+    "timezone": "Europe/London",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Brussels",
+    "country": "BE",
+    "latitude": 50.9,
+    "longitude": 4.48,
+    "timezone": "Europe/Brussels",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "DUS",
+    "name": "Dusseldorf Airport",
+    "city": "Dusseldorf",
+    "country": "DE",
+    "latitude": 51.29,
+    "longitude": 6.77,
+    "timezone": "Europe/Berlin",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "HAM",
+    "name": "Hamburg Airport",
+    "city": "Hamburg",
+    "country": "DE",
+    "latitude": 53.63,
+    "longitude": 9.99,
+    "timezone": "Europe/Berlin",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "BER",
+    "name": "Berlin Airport",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.36,
+    "longitude": 13.5,
+    "timezone": "Europe/Berlin",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "MXP",
+    "name": "Milan Airport",
+    "city": "Milan",
+    "country": "IT",
+    "latitude": 45.63,
+    "longitude": 8.72,
+    "timezone": "Europe/Rome",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "NAP",
+    "name": "Naples Airport",
+    "city": "Naples",
+    "country": "IT",
+    "latitude": 40.88,
+    "longitude": 14.29,
+    "timezone": "Europe/Rome",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "VCE",
+    "name": "Venice Airport",
+    "city": "Venice",
+    "country": "IT",
+    "latitude": 45.51,
+    "longitude": 12.35,
+    "timezone": "Europe/Rome",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "PMI",
+    "name": "Palma de Mallorca Airport",
+    "city": "Palma de Mallorca",
+    "country": "ES",
+    "latitude": 39.55,
+    "longitude": 2.74,
+    "timezone": "Europe/Madrid",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "AGP",
+    "name": "Malaga Airport",
+    "city": "Malaga",
+    "country": "ES",
+    "latitude": 36.67,
+    "longitude": -4.5,
+    "timezone": "Europe/Madrid",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "SVQ",
+    "name": "Seville Airport",
+    "city": "Seville",
+    "country": "ES",
+    "latitude": 37.42,
+    "longitude": -5.89,
+    "timezone": "Europe/Madrid",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "VLC",
+    "name": "Valencia Airport",
+    "city": "Valencia",
+    "country": "ES",
+    "latitude": 39.49,
+    "longitude": -0.48,
+    "timezone": "Europe/Madrid",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "OPO",
+    "name": "Porto Airport",
+    "city": "Porto",
+    "country": "PT",
+    "latitude": 41.24,
+    "longitude": -8.68,
+    "timezone": "Europe/Lisbon",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "FAO",
+    "name": "Faro Airport",
+    "city": "Faro",
+    "country": "PT",
+    "latitude": 37.01,
+    "longitude": -7.97,
+    "timezone": "Europe/Lisbon",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "NCE",
+    "name": "Nice Airport",
+    "city": "Nice",
+    "country": "FR",
+    "latitude": 43.66,
+    "longitude": 7.22,
+    "timezone": "Europe/Paris",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "LYS",
+    "name": "Lyon Airport",
+    "city": "Lyon",
+    "country": "FR",
+    "latitude": 45.73,
+    "longitude": 5.08,
+    "timezone": "Europe/Paris",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "GVA",
+    "name": "Geneva Airport",
+    "city": "Geneva",
+    "country": "CH",
+    "latitude": 46.24,
+    "longitude": 6.11,
+    "timezone": "Europe/Zurich",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "PRG",
+    "name": "Prague Airport",
+    "city": "Prague",
+    "country": "CZ",
+    "latitude": 50.1,
+    "longitude": 14.26,
+    "timezone": "Europe/Prague",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "BUD",
+    "name": "Budapest Airport",
+    "city": "Budapest",
+    "country": "HU",
+    "latitude": 47.44,
+    "longitude": 19.26,
+    "timezone": "Europe/Budapest",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "OTP",
+    "name": "Bucharest Airport",
+    "city": "Bucharest",
+    "country": "RO",
+    "latitude": 44.57,
+    "longitude": 26.09,
+    "timezone": "Europe/Bucharest",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "SOF",
+    "name": "Sofia Airport",
+    "city": "Sofia",
+    "country": "BG",
+    "latitude": 42.7,
+    "longitude": 23.41,
+    "timezone": "Europe/Sofia",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "BEG",
+    "name": "Belgrade Airport",
+    "city": "Belgrade",
+    "country": "RS",
+    "latitude": 44.82,
+    "longitude": 20.31,
+    "timezone": "Europe/Belgrade",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "ZAG",
+    "name": "Zagreb Airport",
+    "city": "Zagreb",
+    "country": "HR",
+    "latitude": 45.74,
+    "longitude": 16.07,
+    "timezone": "Europe/Zagreb",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "HEL",
+    "name": "Helsinki Airport",
+    "city": "Helsinki",
+    "country": "FI",
+    "latitude": 60.32,
+    "longitude": 24.96,
+    "timezone": "Europe/Helsinki",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "OSL",
+    "name": "Oslo Airport",
+    "city": "Oslo",
+    "country": "NO",
+    "latitude": 60.19,
+    "longitude": 11.1,
+    "timezone": "Europe/Oslo",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "GOT",
+    "name": "Gothenburg Airport",
+    "city": "Gothenburg",
+    "country": "SE",
+    "latitude": 57.66,
+    "longitude": 12.28,
+    "timezone": "Europe/Stockholm",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "KEF",
+    "name": "Reykjavik Airport",
+    "city": "Reykjavik",
+    "country": "IS",
+    "latitude": 63.99,
+    "longitude": -22.62,
+    "timezone": "Atlantic/Reykjavik",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "RIX",
+    "name": "Riga Airport",
+    "city": "Riga",
+    "country": "LV",
+    "latitude": 56.92,
+    "longitude": 23.97,
+    "timezone": "Europe/Riga",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "TLL",
+    "name": "Tallinn Airport",
+    "city": "Tallinn",
+    "country": "EE",
+    "latitude": 59.41,
+    "longitude": 24.83,
+    "timezone": "Europe/Tallinn",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "VNO",
+    "name": "Vilnius Airport",
+    "city": "Vilnius",
+    "country": "LT",
+    "latitude": 54.63,
+    "longitude": 25.29,
+    "timezone": "Europe/Vilnius",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "KRK",
+    "name": "Krakow Airport",
+    "city": "Krakow",
+    "country": "PL",
+    "latitude": 50.08,
+    "longitude": 19.78,
+    "timezone": "Europe/Warsaw",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "IST",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "country": "TR",
+    "latitude": 41.26,
+    "longitude": 28.74,
+    "timezone": "Europe/Istanbul",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "SKG",
+    "name": "Thessaloniki Airport",
+    "city": "Thessaloniki",
+    "country": "GR",
+    "latitude": 40.52,
+    "longitude": 22.97,
+    "timezone": "Europe/Athens",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "HER",
+    "name": "Heraklion Airport",
+    "city": "Heraklion",
+    "country": "GR",
+    "latitude": 35.34,
+    "longitude": 25.18,
+    "timezone": "Europe/Athens",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "LCA",
+    "name": "Larnaca Airport",
+    "city": "Larnaca",
+    "country": "CY",
+    "latitude": 34.88,
+    "longitude": 33.62,
+    "timezone": "Asia/Nicosia",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "MLA",
+    "name": "Malta Airport",
+    "city": "Malta",
+    "country": "MT",
+    "latitude": 35.86,
+    "longitude": 14.5,
+    "timezone": "Europe/Malta",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "TLV",
+    "name": "Tel Aviv Airport",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "latitude": 32.01,
+    "longitude": 34.89,
+    "timezone": "Asia/Jerusalem",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "CAI",
+    "name": "Cairo Airport",
+    "city": "Cairo",
+    "country": "EG",
+    "latitude": 30.12,
+    "longitude": 31.41,
+    "timezone": "Africa/Cairo",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "CMN",
+    "name": "Casablanca Airport",
+    "city": "Casablanca",
+    "country": "MA",
+    "latitude": 33.37,
+    "longitude": -7.59,
+    "timezone": "Africa/Casablanca",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "DXB",
+    "name": "Dubai Airport",
+    "city": "Dubai",
+    "country": "AE",
+    "latitude": 25.25,
+    "longitude": 55.36,
+    "timezone": "Asia/Dubai",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "JFK",
+    "name": "New York Airport",
+    "city": "New York",
+    "country": "US",
+    "latitude": 40.64,
+    "longitude": -73.78,
+    "timezone": "America/New_York",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "BOS",
+    "name": "Boston Airport",
+    "city": "Boston",
+    "country": "US",
+    "latitude": 42.36,
+    "longitude": -71.01,
+    "timezone": "America/New_York",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "YYZ",
+    "name": "Toronto Airport",
+    "city": "Toronto",
+    "country": "CA",
+    "latitude": 43.68,
+    "longitude": -79.63,
+    "timezone": "America/Toronto",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "ORD",
+    "name": "Chicago Airport",
+    "city": "Chicago",
+    "country": "US",
+    "latitude": 41.98,
+    "longitude": -87.9,
+    "timezone": "America/Chicago",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "MIA",
+    "name": "Miami Airport",
+    "city": "Miami",
+    "country": "US",
+    "latitude": 25.79,
+    "longitude": -80.29,
+    "timezone": "America/New_York",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "DEL",
+    "name": "Delhi Airport",
+    "city": "Delhi",
+    "country": "IN",
+    "latitude": 28.56,
+    "longitude": 77.1,
+    "timezone": "Asia/Kolkata",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "NRT",
+    "name": "Tokyo Airport",
+    "city": "Tokyo",
+    "country": "JP",
+    "latitude": 35.77,
+    "longitude": 140.39,
+    "timezone": "Asia/Tokyo",
+    "is_hub": 0
+  },
+  {
+    "airport_iata": "GRU",
+    "name": "Sao Paulo Airport",
+    "city": "Sao Paulo",
+    "country": "BR",
+    "latitude": -23.43,
+    "longitude": -46.47,
+    "timezone": "America/Sao_Paulo",
+    "is_hub": 0
+  }
+]

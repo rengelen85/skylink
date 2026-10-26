@@ -1,0 +1,66 @@
+airport_iata,name,city,country,latitude,longitude,timezone,is_hub
+AMS,Amsterdam Schiphol,Amsterdam,NL,52.31,4.76,Europe/Amsterdam,1
+FRA,Frankfurt Airport,Frankfurt,DE,50.03,8.57,Europe/Berlin,1
+MUC,Munich Airport,Munich,DE,48.35,11.79,Europe/Berlin,1
+CDG,Paris Charles de Gaulle,Paris,FR,49.01,2.55,Europe/Paris,1
+MAD,Madrid Barajas,Madrid,ES,40.47,-3.56,Europe/Madrid,1
+FCO,Rome Fiumicino,Rome,IT,41.8,12.25,Europe/Rome,1
+BCN,Barcelona El Prat,Barcelona,ES,41.3,2.08,Europe/Madrid,1
+LIS,Lisbon Humberto Delgado,Lisbon,PT,38.78,-9.14,Europe/Lisbon,1
+VIE,Vienna Schwechat,Vienna,AT,48.11,16.57,Europe/Vienna,1
+ZRH,Zurich Airport,Zurich,CH,47.46,8.55,Europe/Zurich,1
+CPH,Copenhagen Kastrup,Copenhagen,DK,55.62,12.65,Europe/Copenhagen,1
+ARN,Stockholm Arlanda,Stockholm,SE,59.65,17.92,Europe/Stockholm,1
+WAW,Warsaw Chopin,Warsaw,PL,52.17,20.97,Europe/Warsaw,1
+ATH,Athens Venizelos,Athens,GR,37.94,23.94,Europe/Athens,1
+DUB,Dublin Airport,Dublin,IE,53.43,-6.27,Europe/Dublin,1
+LHR,London Airport,London,GB,51.47,-0.45,Europe/London,0
+MAN,Manchester Airport,Manchester,GB,53.35,-2.27,Europe/London,0
+EDI,Edinburgh Airport,Edinburgh,GB,55.95,-3.37,Europe/London,0
+BRU,Brussels Airport,Brussels,BE,50.9,4.48,Europe/Brussels,0
+DUS,Dusseldorf Airport,Dusseldorf,DE,51.29,6.77,Europe/Berlin,0
+HAM,Hamburg Airport,Hamburg,DE,53.63,9.99,Europe/Berlin,0
+BER,Berlin Airport,Berlin,DE,52.36,13.5,Europe/Berlin,0
+MXP,Milan Airport,Milan,IT,45.63,8.72,Europe/Rome,0
+NAP,Naples Airport,Naples,IT,40.88,14.29,Europe/Rome,0
+VCE,Venice Airport,Venice,IT,45.51,12.35,Europe/Rome,0
+PMI,Palma de Mallorca Airport,Palma de Mallorca,ES,39.55,2.74,Europe/Madrid,0
+AGP,Malaga Airport,Malaga,ES,36.67,-4.5,Europe/Madrid,0
+SVQ,Seville Airport,Seville,ES,37.42,-5.89,Europe/Madrid,0
+VLC,Valencia Airport,Valencia,ES,39.49,-0.48,Europe/Madrid,0
+OPO,Porto Airport,Porto,PT,41.24,-8.68,Europe/Lisbon,0
+FAO,Faro Airport,Faro,PT,37.01,-7.97,Europe/Lisbon,0
+NCE,Nice Airport,Nice,FR,43.66,7.22,Europe/Paris,0
+LYS,Lyon Airport,Lyon,FR,45.73,5.08,Europe/Paris,0
+GVA,Geneva Airport,Geneva,CH,46.24,6.11,Europe/Zurich,0
+PRG,Prague Airport,Prague,CZ,50.1,14.26,Europe/Prague,0
+BUD,Budapest Airport,Budapest,HU,47.44,19.26,Europe/Budapest,0
+OTP,Bucharest Airport,Bucharest,RO,44.57,26.09,Europe/Bucharest,0
+SOF,Sofia Airport,Sofia,BG,42.7,23.41,Europe/Sofia,0
+BEG,Belgrade Airport,Belgrade,RS,44.82,20.31,Europe/Belgrade,0
+ZAG,Zagreb Airport,Zagreb,HR,45.74,16.07,Europe/Zagreb,0
+HEL,Helsinki Airport,Helsinki,FI,60.32,24.96,Europe/Helsinki,0
+OSL,Oslo Airport,Oslo,NO,60.19,11.1,Europe/Oslo,0
+GOT,Gothenburg Airport,Gothenburg,SE,57.66,12.28,Europe/Stockholm,0
+KEF,Reykjavik Airport,Reykjavik,IS,63.99,-22.62,Atlantic/Reykjavik,0
+RIX,Riga Airport,Riga,LV,56.92,23.97,Europe/Riga,0
+TLL,Tallinn Airport,Tallinn,EE,59.41,24.83,Europe/Tallinn,0
+VNO,Vilnius Airport,Vilnius,LT,54.63,25.29,Europe/Vilnius,0
+KRK,Krakow Airport,Krakow,PL,50.08,19.78,Europe/Warsaw,0
+IST,Istanbul Airport,Istanbul,TR,41.26,28.74,Europe/Istanbul,0
+SKG,Thessaloniki Airport,Thessaloniki,GR,40.52,22.97,Europe/Athens,0
+HER,Heraklion Airport,Heraklion,GR,35.34,25.18,Europe/Athens,0
+LCA,Larnaca Airport,Larnaca,CY,34.88,33.62,Asia/Nicosia,0
+MLA,Malta Airport,Malta,MT,35.86,14.5,Europe/Malta,0
+TLV,Tel Aviv Airport,Tel Aviv,IL,32.01,34.89,Asia/Jerusalem,0
+CAI,Cairo Airport,Cairo,EG,30.12,31.41,Africa/Cairo,0
+CMN,Casablanca Airport,Casablanca,MA,33.37,-7.59,Africa/Casablanca,0
+DXB,Dubai Airport,Dubai,AE,25.25,55.36,Asia/Dubai,0
+JFK,New York Airport,New York,US,40.64,-73.78,America/New_York,0
+BOS,Boston Airport,Boston,US,42.36,-71.01,America/New_York,0
+YYZ,Toronto Airport,Toronto,CA,43.68,-79.63,America/Toronto,0
+ORD,Chicago Airport,Chicago,US,41.98,-87.9,America/Chicago,0
+MIA,Miami Airport,Miami,US,25.79,-80.29,America/New_York,0
+DEL,Delhi Airport,Delhi,IN,28.56,77.1,Asia/Kolkata,0
+NRT,Tokyo Airport,Tokyo,JP,35.77,140.39,Asia/Tokyo,0
+GRU,Sao Paulo Airport,Sao Paulo,BR,-23.43,-46.47,America/Sao_Paulo,0

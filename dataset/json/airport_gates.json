@@ -1,0 +1,6970 @@
+[
+  {
+    "gate_id": "AMS-G001",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G002",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G003",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G004",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G005",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G006",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G007",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G008",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G009",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G010",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G011",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 11,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G012",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 12,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G013",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G014",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G015",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G016",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G017",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G018",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G019",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G020",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G021",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 21,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G022",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G023",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G024",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G025",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G026",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G027",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G028",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G029",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G030",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 30,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G031",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G032",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G033",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G034",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 34,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G035",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 35,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G036",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G037",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G038",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G039",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 39,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G040",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 40,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G041",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 41,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G042",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 42,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G043",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G044",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G045",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 45,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G046",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 46,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G047",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 47,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G048",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 48,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G049",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G050",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G051",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 51,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G052",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 52,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G053",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 53,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G054",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 54,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G055",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 55,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G056",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 56,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G057",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 57,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G058",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 58,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G059",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 59,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G060",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 60,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G061",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 61,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G062",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 62,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G063",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 63,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G064",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 64,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G065",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 65,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G066",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 66,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G067",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 67,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G068",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 68,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G069",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 69,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G070",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 70,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G071",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 71,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G072",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 72,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G073",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 73,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G074",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 74,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G075",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 75,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G076",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 76,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G077",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 77,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G078",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 78,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G079",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 79,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G080",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 80,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G081",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 81,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G082",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 82,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G083",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 83,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G084",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 84,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G085",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 85,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G086",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 86,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G087",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 87,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G088",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 88,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G089",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 89,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G090",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 90,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G091",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 91,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G092",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 92,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G093",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 93,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G094",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 94,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G095",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 95,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G096",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 96,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G097",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 97,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G098",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 98,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G099",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 99,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G100",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 100,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G101",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 101,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G102",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 102,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G103",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 103,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G104",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 104,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G105",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 105,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G106",
+    "airport": "AMS",
+    "terminal": "T1",
+    "gate_number": 106,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "AMS-G107",
+    "airport": "AMS",
+    "terminal": "T2",
+    "gate_number": 107,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "AMS-G108",
+    "airport": "AMS",
+    "terminal": "T3",
+    "gate_number": 108,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G001",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G002",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G003",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 3,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G004",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G005",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G006",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G007",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G008",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G009",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 9,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G010",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G011",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G012",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G013",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G014",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G015",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G016",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G017",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 17,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G018",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 18,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G019",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G020",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G021",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 21,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G022",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G023",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 23,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G024",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G025",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G026",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G027",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 27,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G028",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G029",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G030",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 30,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G031",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G032",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G033",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G034",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 34,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G035",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 35,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G036",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 36,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G037",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G038",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G039",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 39,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G040",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 40,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G041",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 41,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G042",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 42,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G043",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G044",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G045",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 45,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G046",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 46,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G047",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 47,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G048",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 48,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G049",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G050",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G051",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 51,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G052",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 52,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G053",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 53,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G054",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 54,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G055",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 55,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G056",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 56,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G057",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 57,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G058",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 58,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G059",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 59,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G060",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 60,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G061",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 61,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G062",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 62,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G063",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 63,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G064",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 64,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G065",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 65,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G066",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 66,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G067",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 67,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G068",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 68,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G069",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 69,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G070",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 70,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G071",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 71,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G072",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 72,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G073",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 73,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G074",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 74,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G075",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 75,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G076",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 76,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G077",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 77,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G078",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 78,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G079",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 79,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G080",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 80,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G081",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 81,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G082",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 82,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G083",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 83,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G084",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 84,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G085",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 85,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G086",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 86,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G087",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 87,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G088",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 88,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G089",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 89,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G090",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 90,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G091",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 91,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G092",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 92,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G093",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 93,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G094",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 94,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G095",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 95,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G096",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 96,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G097",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 97,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G098",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 98,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G099",
+    "airport": "FRA",
+    "terminal": "T3",
+    "gate_number": 99,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FRA-G100",
+    "airport": "FRA",
+    "terminal": "T1",
+    "gate_number": 100,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FRA-G101",
+    "airport": "FRA",
+    "terminal": "T2",
+    "gate_number": 101,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G001",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G002",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G003",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 3,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G004",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G005",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G006",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G007",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G008",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G009",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 9,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G010",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G011",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G012",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G013",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G014",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G015",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 15,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G016",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G017",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 17,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G018",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G019",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G020",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G021",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 21,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G022",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G023",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G024",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G025",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G026",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G027",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G028",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G029",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 29,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G030",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G031",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G032",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G033",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 33,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G034",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 34,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G035",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 35,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G036",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G037",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G038",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G039",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 39,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G040",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 40,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G041",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 41,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G042",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 42,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G043",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G044",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G045",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 45,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G046",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 46,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G047",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 47,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G048",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 48,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G049",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G050",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G051",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 51,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G052",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 52,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G053",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 53,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G054",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 54,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G055",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 55,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G056",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 56,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G057",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 57,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G058",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 58,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G059",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 59,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G060",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 60,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G061",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 61,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G062",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 62,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G063",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 63,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G064",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 64,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G065",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 65,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G066",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 66,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G067",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 67,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G068",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 68,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G069",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 69,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G070",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 70,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G071",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 71,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G072",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 72,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G073",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 73,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G074",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 74,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G075",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 75,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G076",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 76,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G077",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 77,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G078",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 78,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G079",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 79,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G080",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 80,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G081",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 81,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MUC-G082",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 82,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G083",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 83,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G084",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 84,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G085",
+    "airport": "MUC",
+    "terminal": "T1",
+    "gate_number": 85,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G086",
+    "airport": "MUC",
+    "terminal": "T2",
+    "gate_number": 86,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MUC-G087",
+    "airport": "MUC",
+    "terminal": "T3",
+    "gate_number": 87,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G001",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G002",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G003",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 3,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G004",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G005",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G006",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G007",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G008",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G009",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G010",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G011",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G012",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G013",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G014",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G015",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G016",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G017",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G018",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 18,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G019",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G020",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G021",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 21,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G022",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G023",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G024",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G025",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G026",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G027",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 27,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G028",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G029",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 29,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G030",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G031",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G032",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G033",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 33,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G034",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 34,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G035",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 35,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G036",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G037",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G038",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G039",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 39,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G040",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 40,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G041",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 41,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G042",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 42,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G043",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G044",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G045",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 45,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G046",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 46,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G047",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 47,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G048",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 48,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G049",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G050",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G051",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 51,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G052",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 52,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G053",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 53,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G054",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 54,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G055",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 55,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G056",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 56,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G057",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 57,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G058",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 58,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G059",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 59,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G060",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 60,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G061",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 61,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G062",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 62,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G063",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 63,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G064",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 64,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G065",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 65,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G066",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 66,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G067",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 67,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G068",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 68,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G069",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 69,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G070",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 70,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G071",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 71,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G072",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 72,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G073",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 73,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G074",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 74,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G075",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 75,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G076",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 76,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G077",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 77,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G078",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 78,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G079",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 79,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G080",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 80,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G081",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 81,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G082",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 82,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G083",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 83,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G084",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 84,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G085",
+    "airport": "CDG",
+    "terminal": "T1",
+    "gate_number": 85,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CDG-G086",
+    "airport": "CDG",
+    "terminal": "T2",
+    "gate_number": 86,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CDG-G087",
+    "airport": "CDG",
+    "terminal": "T3",
+    "gate_number": 87,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G001",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G002",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G003",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 3,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G004",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G005",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G006",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 6,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G007",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G008",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G009",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 9,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G010",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G011",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G012",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 12,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G013",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G014",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G015",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G016",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G017",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G018",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G019",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G020",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G021",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G022",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G023",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G024",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G025",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G026",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G027",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G028",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G029",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G030",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 30,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G031",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G032",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G033",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G034",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 34,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G035",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 35,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G036",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G037",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G038",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G039",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 39,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G040",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 40,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G041",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 41,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G042",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 42,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G043",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G044",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G045",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 45,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G046",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 46,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G047",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 47,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G048",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 48,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G049",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G050",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G051",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 51,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G052",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 52,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G053",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 53,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G054",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 54,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G055",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 55,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G056",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 56,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G057",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 57,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G058",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 58,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G059",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 59,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G060",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 60,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G061",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 61,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G062",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 62,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G063",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 63,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G064",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 64,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G065",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 65,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G066",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 66,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G067",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 67,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G068",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 68,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G069",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 69,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G070",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 70,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "MAD-G071",
+    "airport": "MAD",
+    "terminal": "T2",
+    "gate_number": 71,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G072",
+    "airport": "MAD",
+    "terminal": "T3",
+    "gate_number": 72,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "MAD-G073",
+    "airport": "MAD",
+    "terminal": "T1",
+    "gate_number": 73,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G001",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G002",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G003",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G004",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G005",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G006",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 6,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G007",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G008",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G009",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G010",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G011",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G012",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G013",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G014",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G015",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G016",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G017",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G018",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 18,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G019",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G020",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G021",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G022",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G023",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G024",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 24,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G025",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G026",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G027",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G028",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G029",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G030",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G031",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G032",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G033",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 33,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G034",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 34,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G035",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 35,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G036",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G037",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G038",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G039",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 39,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G040",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 40,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G041",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 41,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G042",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 42,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G043",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G044",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G045",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 45,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G046",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 46,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G047",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 47,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G048",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 48,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G049",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G050",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G051",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 51,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G052",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 52,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G053",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 53,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G054",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 54,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G055",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 55,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "FCO-G056",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 56,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G057",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 57,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G058",
+    "airport": "FCO",
+    "terminal": "T2",
+    "gate_number": 58,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "FCO-G059",
+    "airport": "FCO",
+    "terminal": "T1",
+    "gate_number": 59,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G001",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G002",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G003",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G004",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G005",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G006",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 6,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G007",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G008",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G009",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G010",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G011",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G012",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G013",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G014",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G015",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G016",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G017",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G018",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G019",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G020",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G021",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G022",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G023",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G024",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 24,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G025",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G026",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G027",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G028",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G029",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G030",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 30,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G031",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G032",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G033",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G034",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 34,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G035",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 35,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G036",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G037",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G038",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G039",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 39,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G040",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 40,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G041",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 41,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G042",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 42,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G043",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G044",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G045",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 45,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G046",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 46,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G047",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 47,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G048",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 48,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G049",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "BCN-G050",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G051",
+    "airport": "BCN",
+    "terminal": "T1",
+    "gate_number": 51,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "BCN-G052",
+    "airport": "BCN",
+    "terminal": "T2",
+    "gate_number": 52,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G001",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G002",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G003",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G004",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 4,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G005",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G006",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 6,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G007",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G008",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G009",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G010",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G011",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G012",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G013",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G014",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G015",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G016",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G017",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G018",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G019",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G020",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G021",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G022",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G023",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G024",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G025",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G026",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G027",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G028",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 28,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G029",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G030",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G031",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G032",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G033",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G034",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 34,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G035",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 35,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G036",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G037",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G038",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G039",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 39,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G040",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 40,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G041",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 41,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G042",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 42,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G043",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G044",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G045",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 45,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G046",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 46,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G047",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 47,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G048",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 48,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G049",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 49,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "LIS-G050",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 50,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G051",
+    "airport": "LIS",
+    "terminal": "T1",
+    "gate_number": 51,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "LIS-G052",
+    "airport": "LIS",
+    "terminal": "T2",
+    "gate_number": 52,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G001",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G002",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G003",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G004",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G005",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G006",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G007",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G008",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G009",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G010",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G011",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G012",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G013",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G014",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G015",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G016",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 16,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G017",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G018",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G019",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G020",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G021",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G022",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G023",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G024",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G025",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G026",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G027",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G028",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 28,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G029",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G030",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G031",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G032",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G033",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G034",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 34,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G035",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 35,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G036",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G037",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G038",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G039",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 39,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G040",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 40,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G041",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 41,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G042",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 42,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "VIE-G043",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G044",
+    "airport": "VIE",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "VIE-G045",
+    "airport": "VIE",
+    "terminal": "T1",
+    "gate_number": 45,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G001",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G002",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G003",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G004",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G005",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G006",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 6,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G007",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G008",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G009",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G010",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G011",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G012",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 12,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G013",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G014",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G015",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G016",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 16,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G017",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G018",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G019",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G020",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G021",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G022",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G023",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G024",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 24,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G025",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G026",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G027",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G028",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G029",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G030",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G031",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G032",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G033",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G034",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 34,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G035",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 35,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G036",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G037",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G038",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G039",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 39,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G040",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 40,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G041",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 41,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G042",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 42,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G043",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 43,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ZRH-G044",
+    "airport": "ZRH",
+    "terminal": "T2",
+    "gate_number": 44,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ZRH-G045",
+    "airport": "ZRH",
+    "terminal": "T1",
+    "gate_number": 45,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G001",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G002",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 2,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G003",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G004",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 4,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G005",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G006",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 6,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G007",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G008",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G009",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G010",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G011",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G012",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G013",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G014",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G015",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G016",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G017",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G018",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 18,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G019",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G020",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 20,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G021",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G022",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G023",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G024",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G025",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G026",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G027",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G028",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G029",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G030",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 30,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G031",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G032",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 32,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G033",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 33,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G034",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 34,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G035",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 35,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G036",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 36,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "CPH-G037",
+    "airport": "CPH",
+    "terminal": "T1",
+    "gate_number": 37,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "CPH-G038",
+    "airport": "CPH",
+    "terminal": "T2",
+    "gate_number": 38,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G001",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G002",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 2,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G003",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ARN-G004",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G005",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G006",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G007",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G008",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G009",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G010",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G011",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ARN-G012",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 12,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G013",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G014",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G015",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ARN-G016",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G017",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G018",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 18,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G019",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G020",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G021",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ARN-G022",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G023",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G024",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 24,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G025",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ARN-G026",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 26,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G027",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G028",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G029",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G030",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ARN-G031",
+    "airport": "ARN",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G001",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "WAW-G002",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G003",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G004",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G005",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "WAW-G006",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G007",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G008",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "WAW-G009",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G010",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "WAW-G011",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G012",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 12,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G013",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G014",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G015",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G016",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G017",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "WAW-G018",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G019",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "WAW-G020",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G021",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G022",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G023",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G024",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G025",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G026",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G027",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G028",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "WAW-G029",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G030",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "WAW-G031",
+    "airport": "WAW",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G001",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G002",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 2,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G003",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G004",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G005",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G006",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 6,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G007",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G008",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 8,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G009",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G010",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G011",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G012",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 12,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G013",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G014",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G015",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G016",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G017",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G018",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 18,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G019",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G020",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 20,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G021",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G022",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G023",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G024",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G025",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G026",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 26,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G027",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G028",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G029",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "ATH-G030",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "ATH-G031",
+    "airport": "ATH",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G001",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 1,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G002",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 2,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G003",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 3,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G004",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 4,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G005",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 5,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G006",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 6,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G007",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 7,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G008",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 8,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G009",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 9,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G010",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 10,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G011",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 11,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G012",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 12,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G013",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 13,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G014",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 14,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G015",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 15,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G016",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 16,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G017",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 17,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G018",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 18,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G019",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 19,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G020",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 20,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G021",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 21,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G022",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 22,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G023",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 23,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G024",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 24,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G025",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 25,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G026",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 26,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G027",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 27,
+    "gate_type": "REMOTE_STAND",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G028",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 28,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G029",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 29,
+    "gate_type": "CONTACT",
+    "max_body_type": "WIDE"
+  },
+  {
+    "gate_id": "DUB-G030",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 30,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  },
+  {
+    "gate_id": "DUB-G031",
+    "airport": "DUB",
+    "terminal": "T1",
+    "gate_number": 31,
+    "gate_type": "CONTACT",
+    "max_body_type": "NARROW"
+  }
+]

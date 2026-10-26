@@ -1,0 +1,47 @@
+[
+  {
+    "candidate_id": "CH1",
+    "airport": "BRU",
+    "city": "Brussels",
+    "country": "BE",
+    "planned_open_date": "2027-10-31",
+    "year1_daily_departures": 45,
+    "year3_daily_departures": 90,
+    "aircraft_to_base": 22,
+    "staff_relocating_share_pct": 30,
+    "line_maintenance_bays": 2,
+    "estimated_gates_required": 18,
+    "local_labour_cost_index": 1.05,
+    "setup_cost_eur_m": 85
+  },
+  {
+    "candidate_id": "CH2",
+    "airport": "MXP",
+    "city": "Milan",
+    "country": "IT",
+    "planned_open_date": "2028-03-26",
+    "year1_daily_departures": 60,
+    "year3_daily_departures": 130,
+    "aircraft_to_base": 35,
+    "staff_relocating_share_pct": 25,
+    "line_maintenance_bays": 3,
+    "estimated_gates_required": 26,
+    "local_labour_cost_index": 0.95,
+    "setup_cost_eur_m": 120
+  },
+  {
+    "candidate_id": "CH3",
+    "airport": "PRG",
+    "city": "Prague",
+    "country": "CZ",
+    "planned_open_date": "2027-10-31",
+    "year1_daily_departures": 30,
+    "year3_daily_departures": 70,
+    "aircraft_to_base": 14,
+    "staff_relocating_share_pct": 35,
+    "line_maintenance_bays": 2,
+    "estimated_gates_required": 14,
+    "local_labour_cost_index": 0.7,
+    "setup_cost_eur_m": 55
+  }
+]

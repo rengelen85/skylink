@@ -1,0 +1,16 @@
+rule_id,applies_to_role,rule_name,limit_value,unit,window,notes
+FTL-P-01,Pilot,Max flight duty period (basic),13,hours,per duty,Simplified; loosely modelled on EASA ORO.FTL. Not legal advice.
+FTL-P-02,Pilot,Max block time,100,hours,rolling 28 days,Simplified
+FTL-P-03,Pilot,Max block time,900,hours,calendar year,Simplified
+FTL-P-04,Pilot,Minimum rest between duties,12,hours,per duty,Simplified (home base)
+FTL-P-05,Pilot,Max consecutive duty days,6,days,rolling,Simplified
+FTL-P-06,Pilot,Max sectors per duty,4,sectors,per duty,Simplified
+FTL-C-01,Cabin Crew,Max duty period,13,hours,per duty,Simplified
+FTL-C-02,Cabin Crew,Minimum rest between duties,10,hours,per duty,Simplified
+FTL-C-03,Cabin Crew,Max flight time,100,hours,rolling 28 days,Simplified
+MX-01,Maintenance Engineer,Max working time,10,hours,per day,Simplified
+MX-02,Maintenance Engineer,Certifying staff must hold valid licence AND type endorsement for the aircraft family,,,per task sign-off,Compliance rule
+LIC-01,Pilot,Type rating must be valid (not expired) on the date of flight,,,per flight,Compliance rule
+SEC-01,All,Valid airport access ID required for airside work,,,per shift,Compliance rule
+GR-01,Ground Staff,De-icing operators need valid annual de-icing certificate,,,per shift,Compliance rule
+CC-01,Cabin Crew,Minimum cabin crew = 1 per 50 seats (see aircraft_types.min_cabin_crew); every flight needs a qualified Purser,,,per flight,Compliance rule

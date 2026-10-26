@@ -1,0 +1,4 @@
+candidate_id,airport,city,country,planned_open_date,year1_daily_departures,year3_daily_departures,aircraft_to_base,staff_relocating_share_pct,line_maintenance_bays,estimated_gates_required,local_labour_cost_index,setup_cost_eur_m
+CH1,BRU,Brussels,BE,2027-10-31,45,90,22,30,2,18,1.05,85
+CH2,MXP,Milan,IT,2028-03-26,60,130,35,25,3,26,0.95,120
+CH3,PRG,Prague,CZ,2027-10-31,30,70,14,35,2,14,0.7,55

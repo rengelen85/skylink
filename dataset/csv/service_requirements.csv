@@ -1,0 +1,99 @@
+requirement_id,aircraft_type,phase,role,sub_role,headcount,duration_basis,fixed_hours,required_skill_id
+SRV0001,A220-300,FLIGHT_DECK,Pilot,Captain,1,block_time,,TR_A220
+SRV0002,A220-300,FLIGHT_DECK,Pilot,First Officer,1,block_time,,TR_A220
+SRV0003,A220-300,FLIGHT_DECK,Pilot,"First Officer (relief, if block >= 8h)",1,block_time,,TR_A220
+SRV0004,A220-300,CABIN,Cabin Crew,Purser,1,block_time,,CC_PURSER
+SRV0005,A220-300,CABIN,Cabin Crew,Cabin Attendant,2,block_time,,CQ_NARROW
+SRV0006,A220-300,TURNAROUND,Ground Staff,Ramp Agent,3,fixed_hours,1.25,GC_RAMP
+SRV0007,A220-300,TURNAROUND,Ground Staff,Baggage Handler,4,fixed_hours,1.5,GC_BAGGAGE
+SRV0008,A220-300,TURNAROUND,Ground Staff,Pushback Driver,1,fixed_hours,0.5,GC_PUSHBACK
+SRV0009,A220-300,TURNAROUND,Ground Staff,Load Controller,1,fixed_hours,1.0,GC_LOADCONTROL
+SRV0010,A220-300,TURNAROUND,Ground Staff,Gate Agent,2,fixed_hours,1.5,GC_GATE
+SRV0011,A220-300,TURNAROUND,Ground Staff,Check-in Agent,4,fixed_hours,2.0,GC_CHECKIN
+SRV0012,A220-300,TURNAROUND,Ground Staff,PRM Assistant,1,fixed_hours,1.0,GC_PRM
+SRV0013,A220-300,TURNAROUND,Ground Staff,Aircraft Cleaner,3,fixed_hours,1.0,GC_CLEANING
+SRV0014,A220-300,TURNAROUND,Ground Staff,Fueler,1,fixed_hours,0.75,GC_FUELING
+SRV0015,E195-E2,FLIGHT_DECK,Pilot,Captain,1,block_time,,TR_E2
+SRV0016,E195-E2,FLIGHT_DECK,Pilot,First Officer,1,block_time,,TR_E2
+SRV0017,E195-E2,FLIGHT_DECK,Pilot,"First Officer (relief, if block >= 8h)",1,block_time,,TR_E2
+SRV0018,E195-E2,CABIN,Cabin Crew,Purser,1,block_time,,CC_PURSER
+SRV0019,E195-E2,CABIN,Cabin Crew,Cabin Attendant,2,block_time,,CQ_NARROW
+SRV0020,E195-E2,TURNAROUND,Ground Staff,Ramp Agent,3,fixed_hours,1.25,GC_RAMP
+SRV0021,E195-E2,TURNAROUND,Ground Staff,Baggage Handler,4,fixed_hours,1.5,GC_BAGGAGE
+SRV0022,E195-E2,TURNAROUND,Ground Staff,Pushback Driver,1,fixed_hours,0.5,GC_PUSHBACK
+SRV0023,E195-E2,TURNAROUND,Ground Staff,Load Controller,1,fixed_hours,1.0,GC_LOADCONTROL
+SRV0024,E195-E2,TURNAROUND,Ground Staff,Gate Agent,2,fixed_hours,1.5,GC_GATE
+SRV0025,E195-E2,TURNAROUND,Ground Staff,Check-in Agent,4,fixed_hours,2.0,GC_CHECKIN
+SRV0026,E195-E2,TURNAROUND,Ground Staff,PRM Assistant,1,fixed_hours,1.0,GC_PRM
+SRV0027,E195-E2,TURNAROUND,Ground Staff,Aircraft Cleaner,3,fixed_hours,1.0,GC_CLEANING
+SRV0028,E195-E2,TURNAROUND,Ground Staff,Fueler,1,fixed_hours,0.75,GC_FUELING
+SRV0029,A320neo,FLIGHT_DECK,Pilot,Captain,1,block_time,,TR_A320FAM
+SRV0030,A320neo,FLIGHT_DECK,Pilot,First Officer,1,block_time,,TR_A320FAM
+SRV0031,A320neo,FLIGHT_DECK,Pilot,"First Officer (relief, if block >= 8h)",1,block_time,,TR_A320FAM
+SRV0032,A320neo,CABIN,Cabin Crew,Purser,1,block_time,,CC_PURSER
+SRV0033,A320neo,CABIN,Cabin Crew,Cabin Attendant,3,block_time,,CQ_NARROW
+SRV0034,A320neo,TURNAROUND,Ground Staff,Ramp Agent,4,fixed_hours,1.25,GC_RAMP
+SRV0035,A320neo,TURNAROUND,Ground Staff,Baggage Handler,5,fixed_hours,1.5,GC_BAGGAGE
+SRV0036,A320neo,TURNAROUND,Ground Staff,Pushback Driver,1,fixed_hours,0.5,GC_PUSHBACK
+SRV0037,A320neo,TURNAROUND,Ground Staff,Load Controller,1,fixed_hours,1.0,GC_LOADCONTROL
+SRV0038,A320neo,TURNAROUND,Ground Staff,Gate Agent,3,fixed_hours,1.5,GC_GATE
+SRV0039,A320neo,TURNAROUND,Ground Staff,Check-in Agent,5,fixed_hours,2.0,GC_CHECKIN
+SRV0040,A320neo,TURNAROUND,Ground Staff,PRM Assistant,1,fixed_hours,1.0,GC_PRM
+SRV0041,A320neo,TURNAROUND,Ground Staff,Aircraft Cleaner,4,fixed_hours,1.0,GC_CLEANING
+SRV0042,A320neo,TURNAROUND,Ground Staff,Fueler,1,fixed_hours,0.75,GC_FUELING
+SRV0043,A321neo,FLIGHT_DECK,Pilot,Captain,1,block_time,,TR_A320FAM
+SRV0044,A321neo,FLIGHT_DECK,Pilot,First Officer,1,block_time,,TR_A320FAM
+SRV0045,A321neo,FLIGHT_DECK,Pilot,"First Officer (relief, if block >= 8h)",1,block_time,,TR_A320FAM
+SRV0046,A321neo,CABIN,Cabin Crew,Purser,1,block_time,,CC_PURSER
+SRV0047,A321neo,CABIN,Cabin Crew,Cabin Attendant,4,block_time,,CQ_NARROW
+SRV0048,A321neo,TURNAROUND,Ground Staff,Ramp Agent,5,fixed_hours,1.25,GC_RAMP
+SRV0049,A321neo,TURNAROUND,Ground Staff,Baggage Handler,6,fixed_hours,1.5,GC_BAGGAGE
+SRV0050,A321neo,TURNAROUND,Ground Staff,Pushback Driver,1,fixed_hours,0.5,GC_PUSHBACK
+SRV0051,A321neo,TURNAROUND,Ground Staff,Load Controller,1,fixed_hours,1.0,GC_LOADCONTROL
+SRV0052,A321neo,TURNAROUND,Ground Staff,Gate Agent,4,fixed_hours,1.5,GC_GATE
+SRV0053,A321neo,TURNAROUND,Ground Staff,Check-in Agent,6,fixed_hours,2.0,GC_CHECKIN
+SRV0054,A321neo,TURNAROUND,Ground Staff,PRM Assistant,1,fixed_hours,1.0,GC_PRM
+SRV0055,A321neo,TURNAROUND,Ground Staff,Aircraft Cleaner,5,fixed_hours,1.0,GC_CLEANING
+SRV0056,A321neo,TURNAROUND,Ground Staff,Fueler,1,fixed_hours,0.75,GC_FUELING
+SRV0057,A330-900,FLIGHT_DECK,Pilot,Captain,1,block_time,,TR_A330
+SRV0058,A330-900,FLIGHT_DECK,Pilot,First Officer,1,block_time,,TR_A330
+SRV0059,A330-900,FLIGHT_DECK,Pilot,"First Officer (relief, if block >= 8h)",1,block_time,,TR_A330
+SRV0060,A330-900,CABIN,Cabin Crew,Purser,1,block_time,,CC_PURSER
+SRV0061,A330-900,CABIN,Cabin Crew,Cabin Attendant,6,block_time,,CQ_WIDE
+SRV0062,A330-900,TURNAROUND,Ground Staff,Ramp Agent,6,fixed_hours,1.25,GC_RAMP
+SRV0063,A330-900,TURNAROUND,Ground Staff,Baggage Handler,8,fixed_hours,1.5,GC_BAGGAGE
+SRV0064,A330-900,TURNAROUND,Ground Staff,Pushback Driver,2,fixed_hours,0.5,GC_PUSHBACK
+SRV0065,A330-900,TURNAROUND,Ground Staff,Load Controller,2,fixed_hours,1.0,GC_LOADCONTROL
+SRV0066,A330-900,TURNAROUND,Ground Staff,Gate Agent,5,fixed_hours,1.5,GC_GATE
+SRV0067,A330-900,TURNAROUND,Ground Staff,Check-in Agent,8,fixed_hours,2.0,GC_CHECKIN
+SRV0068,A330-900,TURNAROUND,Ground Staff,PRM Assistant,2,fixed_hours,1.0,GC_PRM
+SRV0069,A330-900,TURNAROUND,Ground Staff,Aircraft Cleaner,6,fixed_hours,1.0,GC_CLEANING
+SRV0070,A330-900,TURNAROUND,Ground Staff,Fueler,2,fixed_hours,0.75,GC_FUELING
+SRV0071,A350-900,FLIGHT_DECK,Pilot,Captain,1,block_time,,TR_A350
+SRV0072,A350-900,FLIGHT_DECK,Pilot,First Officer,1,block_time,,TR_A350
+SRV0073,A350-900,FLIGHT_DECK,Pilot,"First Officer (relief, if block >= 8h)",1,block_time,,TR_A350
+SRV0074,A350-900,CABIN,Cabin Crew,Purser,1,block_time,,CC_PURSER
+SRV0075,A350-900,CABIN,Cabin Crew,Cabin Attendant,7,block_time,,CQ_WIDE
+SRV0076,A350-900,TURNAROUND,Ground Staff,Ramp Agent,7,fixed_hours,1.25,GC_RAMP
+SRV0077,A350-900,TURNAROUND,Ground Staff,Baggage Handler,9,fixed_hours,1.5,GC_BAGGAGE
+SRV0078,A350-900,TURNAROUND,Ground Staff,Pushback Driver,2,fixed_hours,0.5,GC_PUSHBACK
+SRV0079,A350-900,TURNAROUND,Ground Staff,Load Controller,2,fixed_hours,1.0,GC_LOADCONTROL
+SRV0080,A350-900,TURNAROUND,Ground Staff,Gate Agent,5,fixed_hours,1.5,GC_GATE
+SRV0081,A350-900,TURNAROUND,Ground Staff,Check-in Agent,9,fixed_hours,2.0,GC_CHECKIN
+SRV0082,A350-900,TURNAROUND,Ground Staff,PRM Assistant,2,fixed_hours,1.0,GC_PRM
+SRV0083,A350-900,TURNAROUND,Ground Staff,Aircraft Cleaner,7,fixed_hours,1.0,GC_CLEANING
+SRV0084,A350-900,TURNAROUND,Ground Staff,Fueler,2,fixed_hours,0.75,GC_FUELING
+SRV0085,B787-9,FLIGHT_DECK,Pilot,Captain,1,block_time,,TR_B787
+SRV0086,B787-9,FLIGHT_DECK,Pilot,First Officer,1,block_time,,TR_B787
+SRV0087,B787-9,FLIGHT_DECK,Pilot,"First Officer (relief, if block >= 8h)",1,block_time,,TR_B787
+SRV0088,B787-9,CABIN,Cabin Crew,Purser,1,block_time,,CC_PURSER
+SRV0089,B787-9,CABIN,Cabin Crew,Cabin Attendant,6,block_time,,CQ_WIDE
+SRV0090,B787-9,TURNAROUND,Ground Staff,Ramp Agent,7,fixed_hours,1.25,GC_RAMP
+SRV0091,B787-9,TURNAROUND,Ground Staff,Baggage Handler,8,fixed_hours,1.5,GC_BAGGAGE
+SRV0092,B787-9,TURNAROUND,Ground Staff,Pushback Driver,2,fixed_hours,0.5,GC_PUSHBACK
+SRV0093,B787-9,TURNAROUND,Ground Staff,Load Controller,2,fixed_hours,1.0,GC_LOADCONTROL
+SRV0094,B787-9,TURNAROUND,Ground Staff,Gate Agent,5,fixed_hours,1.5,GC_GATE
+SRV0095,B787-9,TURNAROUND,Ground Staff,Check-in Agent,8,fixed_hours,2.0,GC_CHECKIN
+SRV0096,B787-9,TURNAROUND,Ground Staff,PRM Assistant,2,fixed_hours,1.0,GC_PRM
+SRV0097,B787-9,TURNAROUND,Ground Staff,Aircraft Cleaner,7,fixed_hours,1.0,GC_CLEANING
+SRV0098,B787-9,TURNAROUND,Ground Staff,Fueler,2,fixed_hours,0.75,GC_FUELING

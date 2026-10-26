@@ -1,0 +1,191 @@
+[
+  {
+    "facility_id": "MF-AMS-LINE",
+    "hub": "AMS",
+    "name": "Amsterdam Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 5,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 450
+  },
+  {
+    "facility_id": "MF-AMS-BASE",
+    "hub": "AMS",
+    "name": "Amsterdam Base Maintenance Hangar",
+    "facility_type": "BASE_MAINTENANCE",
+    "hangar_bays": 8,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 2080
+  },
+  {
+    "facility_id": "MF-FRA-LINE",
+    "hub": "FRA",
+    "name": "Frankfurt Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 5,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 450
+  },
+  {
+    "facility_id": "MF-FRA-BASE",
+    "hub": "FRA",
+    "name": "Frankfurt Base Maintenance Hangar",
+    "facility_type": "BASE_MAINTENANCE",
+    "hangar_bays": 6,
+    "supported_families": "A320FAM|A330|A350|E2",
+    "labor_capacity_hours_per_day": 1560
+  },
+  {
+    "facility_id": "MF-MUC-LINE",
+    "hub": "MUC",
+    "name": "Munich Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 4,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 360
+  },
+  {
+    "facility_id": "MF-MUC-BASE",
+    "hub": "MUC",
+    "name": "Munich Base Maintenance Hangar",
+    "facility_type": "BASE_MAINTENANCE",
+    "hangar_bays": 6,
+    "supported_families": "A320FAM|A350|A220",
+    "labor_capacity_hours_per_day": 1560
+  },
+  {
+    "facility_id": "MF-CDG-LINE",
+    "hub": "CDG",
+    "name": "Paris Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 4,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 360
+  },
+  {
+    "facility_id": "MF-CDG-BASE",
+    "hub": "CDG",
+    "name": "Paris Base Maintenance Hangar",
+    "facility_type": "BASE_MAINTENANCE",
+    "hangar_bays": 6,
+    "supported_families": "A320FAM|A330|B787|A220",
+    "labor_capacity_hours_per_day": 1560
+  },
+  {
+    "facility_id": "MF-MAD-LINE",
+    "hub": "MAD",
+    "name": "Madrid Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 4,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 360
+  },
+  {
+    "facility_id": "MF-MAD-BASE",
+    "hub": "MAD",
+    "name": "Madrid Base Maintenance Hangar",
+    "facility_type": "BASE_MAINTENANCE",
+    "hangar_bays": 5,
+    "supported_families": "A320FAM|A330|E2|B787",
+    "labor_capacity_hours_per_day": 1300
+  },
+  {
+    "facility_id": "MF-FCO-LINE",
+    "hub": "FCO",
+    "name": "Rome Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 3,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 270
+  },
+  {
+    "facility_id": "MF-BCN-LINE",
+    "hub": "BCN",
+    "name": "Barcelona Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 3,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 270
+  },
+  {
+    "facility_id": "MF-LIS-LINE",
+    "hub": "LIS",
+    "name": "Lisbon Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 3,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 270
+  },
+  {
+    "facility_id": "MF-LIS-BASE",
+    "hub": "LIS",
+    "name": "Lisbon Base Maintenance Hangar",
+    "facility_type": "BASE_MAINTENANCE",
+    "hangar_bays": 4,
+    "supported_families": "A320FAM|A220|E2|A330",
+    "labor_capacity_hours_per_day": 1040
+  },
+  {
+    "facility_id": "MF-VIE-LINE",
+    "hub": "VIE",
+    "name": "Vienna Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 3,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 270
+  },
+  {
+    "facility_id": "MF-ZRH-LINE",
+    "hub": "ZRH",
+    "name": "Zurich Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 3,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 270
+  },
+  {
+    "facility_id": "MF-CPH-LINE",
+    "hub": "CPH",
+    "name": "Copenhagen Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 3,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 270
+  },
+  {
+    "facility_id": "MF-ARN-LINE",
+    "hub": "ARN",
+    "name": "Stockholm Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 2,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 180
+  },
+  {
+    "facility_id": "MF-WAW-LINE",
+    "hub": "WAW",
+    "name": "Warsaw Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 2,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 180
+  },
+  {
+    "facility_id": "MF-ATH-LINE",
+    "hub": "ATH",
+    "name": "Athens Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 2,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 180
+  },
+  {
+    "facility_id": "MF-DUB-LINE",
+    "hub": "DUB",
+    "name": "Dublin Line Maintenance",
+    "facility_type": "LINE_MAINTENANCE",
+    "hangar_bays": 2,
+    "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+    "labor_capacity_hours_per_day": 180
+  }
+]

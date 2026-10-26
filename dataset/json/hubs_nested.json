@@ -1,0 +1,650 @@
+[
+  {
+    "hub": "AMS",
+    "name": "Amsterdam Schiphol",
+    "country": "NL",
+    "timezone": "Europe/Amsterdam",
+    "gates": 108,
+    "facilities": [
+      {
+        "facility_id": "MF-AMS-LINE",
+        "name": "Amsterdam Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 5,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 450
+      },
+      {
+        "facility_id": "MF-AMS-BASE",
+        "name": "Amsterdam Base Maintenance Hangar",
+        "facility_type": "BASE_MAINTENANCE",
+        "hangar_bays": 8,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 2080
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 13,
+      "E2": 8,
+      "A320FAM": 45,
+      "A330": 9,
+      "A350": 2,
+      "B787": 3
+    },
+    "headcount": {
+      "Pilot": 491,
+      "Cabin Crew": 983,
+      "Ground Staff": 3055,
+      "Maintenance Engineer": 1155,
+      "Operations Coordinator": 326
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 40273,
+      "Cabin Crew": 85347,
+      "Ground Staff": 442440,
+      "Maintenance Engineer": 156408,
+      "Operations Coordinator": 47190
+    },
+    "daily_flights_touching_hub": 210.9
+  },
+  {
+    "hub": "FRA",
+    "name": "Frankfurt Airport",
+    "country": "DE",
+    "timezone": "Europe/Berlin",
+    "gates": 101,
+    "facilities": [
+      {
+        "facility_id": "MF-FRA-LINE",
+        "name": "Frankfurt Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 5,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 450
+      },
+      {
+        "facility_id": "MF-FRA-BASE",
+        "name": "Frankfurt Base Maintenance Hangar",
+        "facility_type": "BASE_MAINTENANCE",
+        "hangar_bays": 6,
+        "supported_families": "A320FAM|A330|A350|E2",
+        "labor_capacity_hours_per_day": 1560
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 12,
+      "E2": 9,
+      "A320FAM": 46,
+      "A330": 2,
+      "A350": 15,
+      "B787": 2
+    },
+    "headcount": {
+      "Pilot": 497,
+      "Cabin Crew": 1055,
+      "Ground Staff": 3469,
+      "Maintenance Engineer": 1059,
+      "Operations Coordinator": 353
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 40715,
+      "Cabin Crew": 91575,
+      "Ground Staff": 501675,
+      "Maintenance Engineer": 143038,
+      "Operations Coordinator": 51030
+    },
+    "daily_flights_touching_hub": 234.6
+  },
+  {
+    "hub": "MUC",
+    "name": "Munich Airport",
+    "country": "DE",
+    "timezone": "Europe/Berlin",
+    "gates": 87,
+    "facilities": [
+      {
+        "facility_id": "MF-MUC-LINE",
+        "name": "Munich Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 4,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 360
+      },
+      {
+        "facility_id": "MF-MUC-BASE",
+        "name": "Munich Base Maintenance Hangar",
+        "facility_type": "BASE_MAINTENANCE",
+        "hangar_bays": 6,
+        "supported_families": "A320FAM|A350|A220",
+        "labor_capacity_hours_per_day": 1560
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 10,
+      "E2": 6,
+      "A320FAM": 30,
+      "A330": 6,
+      "A350": 18,
+      "B787": 11
+    },
+    "headcount": {
+      "Pilot": 516,
+      "Cabin Crew": 1145,
+      "Ground Staff": 2455,
+      "Maintenance Engineer": 994,
+      "Operations Coordinator": 239
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 41922,
+      "Cabin Crew": 99261,
+      "Ground Staff": 354285,
+      "Maintenance Engineer": 134204,
+      "Operations Coordinator": 34905
+    },
+    "daily_flights_touching_hub": 169.1
+  },
+  {
+    "hub": "CDG",
+    "name": "Paris Charles de Gaulle",
+    "country": "FR",
+    "timezone": "Europe/Paris",
+    "gates": 87,
+    "facilities": [
+      {
+        "facility_id": "MF-CDG-LINE",
+        "name": "Paris Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 4,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 360
+      },
+      {
+        "facility_id": "MF-CDG-BASE",
+        "name": "Paris Base Maintenance Hangar",
+        "facility_type": "BASE_MAINTENANCE",
+        "hangar_bays": 6,
+        "supported_families": "A320FAM|A330|B787|A220",
+        "labor_capacity_hours_per_day": 1560
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 9,
+      "E2": 7,
+      "A320FAM": 33,
+      "A330": 3,
+      "A350": 5,
+      "B787": 8
+    },
+    "headcount": {
+      "Pilot": 399,
+      "Cabin Crew": 786,
+      "Ground Staff": 2442,
+      "Maintenance Engineer": 865,
+      "Operations Coordinator": 219
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 32793,
+      "Cabin Crew": 67779,
+      "Ground Staff": 352440,
+      "Maintenance Engineer": 115710,
+      "Operations Coordinator": 31725
+    },
+    "daily_flights_touching_hub": 165.7
+  },
+  {
+    "hub": "MAD",
+    "name": "Madrid Barajas",
+    "country": "ES",
+    "timezone": "Europe/Madrid",
+    "gates": 73,
+    "facilities": [
+      {
+        "facility_id": "MF-MAD-LINE",
+        "name": "Madrid Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 4,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 360
+      },
+      {
+        "facility_id": "MF-MAD-BASE",
+        "name": "Madrid Base Maintenance Hangar",
+        "facility_type": "BASE_MAINTENANCE",
+        "hangar_bays": 5,
+        "supported_families": "A320FAM|A330|E2|B787",
+        "labor_capacity_hours_per_day": 1300
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 6,
+      "E2": 3,
+      "A320FAM": 37,
+      "A330": 10,
+      "A350": 4,
+      "B787": 4
+    },
+    "headcount": {
+      "Pilot": 359,
+      "Cabin Crew": 784,
+      "Ground Staff": 2133,
+      "Maintenance Engineer": 655,
+      "Operations Coordinator": 230
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 29164,
+      "Cabin Crew": 67833,
+      "Ground Staff": 308205,
+      "Maintenance Engineer": 88088,
+      "Operations Coordinator": 33285
+    },
+    "daily_flights_touching_hub": 146.9
+  },
+  {
+    "hub": "FCO",
+    "name": "Rome Fiumicino",
+    "country": "IT",
+    "timezone": "Europe/Rome",
+    "gates": 59,
+    "facilities": [
+      {
+        "facility_id": "MF-FCO-LINE",
+        "name": "Rome Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 3,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 270
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 7,
+      "E2": 6,
+      "A320FAM": 18,
+      "A330": 8,
+      "A350": 0,
+      "B787": 4
+    },
+    "headcount": {
+      "Pilot": 246,
+      "Cabin Crew": 391,
+      "Ground Staff": 1578,
+      "Maintenance Engineer": 322,
+      "Operations Coordinator": 151
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 20213,
+      "Cabin Crew": 33966,
+      "Ground Staff": 228315,
+      "Maintenance Engineer": 43554,
+      "Operations Coordinator": 21735
+    },
+    "daily_flights_touching_hub": 106.6
+  },
+  {
+    "hub": "BCN",
+    "name": "Barcelona El Prat",
+    "country": "ES",
+    "timezone": "Europe/Madrid",
+    "gates": 52,
+    "facilities": [
+      {
+        "facility_id": "MF-BCN-LINE",
+        "name": "Barcelona Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 3,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 270
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 4,
+      "E2": 3,
+      "A320FAM": 20,
+      "A330": 3,
+      "A350": 0,
+      "B787": 0
+    },
+    "headcount": {
+      "Pilot": 147,
+      "Cabin Crew": 342,
+      "Ground Staff": 1093,
+      "Maintenance Engineer": 228,
+      "Operations Coordinator": 106
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 12028,
+      "Cabin Crew": 29745,
+      "Ground Staff": 157500,
+      "Maintenance Engineer": 30604,
+      "Operations Coordinator": 15240
+    },
+    "daily_flights_touching_hub": 73.1
+  },
+  {
+    "hub": "LIS",
+    "name": "Lisbon Humberto Delgado",
+    "country": "PT",
+    "timezone": "Europe/Lisbon",
+    "gates": 52,
+    "facilities": [
+      {
+        "facility_id": "MF-LIS-LINE",
+        "name": "Lisbon Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 3,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 270
+      },
+      {
+        "facility_id": "MF-LIS-BASE",
+        "name": "Lisbon Base Maintenance Hangar",
+        "facility_type": "BASE_MAINTENANCE",
+        "hangar_bays": 4,
+        "supported_families": "A320FAM|A220|E2|A330",
+        "labor_capacity_hours_per_day": 1040
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 5,
+      "E2": 4,
+      "A320FAM": 18,
+      "A330": 6,
+      "A350": 0,
+      "B787": 3
+    },
+    "headcount": {
+      "Pilot": 221,
+      "Cabin Crew": 547,
+      "Ground Staff": 1234,
+      "Maintenance Engineer": 554,
+      "Operations Coordinator": 128
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 18054,
+      "Cabin Crew": 47169,
+      "Ground Staff": 178635,
+      "Maintenance Engineer": 74998,
+      "Operations Coordinator": 18495
+    },
+    "daily_flights_touching_hub": 86.3
+  },
+  {
+    "hub": "VIE",
+    "name": "Vienna Schwechat",
+    "country": "AT",
+    "timezone": "Europe/Vienna",
+    "gates": 45,
+    "facilities": [
+      {
+        "facility_id": "MF-VIE-LINE",
+        "name": "Vienna Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 3,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 270
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 4,
+      "E2": 4,
+      "A320FAM": 14,
+      "A330": 0,
+      "A350": 0,
+      "B787": 0
+    },
+    "headcount": {
+      "Pilot": 131,
+      "Cabin Crew": 224,
+      "Ground Staff": 1208,
+      "Maintenance Engineer": 167,
+      "Operations Coordinator": 121
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 10650,
+      "Cabin Crew": 19431,
+      "Ground Staff": 174675,
+      "Maintenance Engineer": 22526,
+      "Operations Coordinator": 17295
+    },
+    "daily_flights_touching_hub": 78.3
+  },
+  {
+    "hub": "ZRH",
+    "name": "Zurich Airport",
+    "country": "CH",
+    "timezone": "Europe/Zurich",
+    "gates": 45,
+    "facilities": [
+      {
+        "facility_id": "MF-ZRH-LINE",
+        "name": "Zurich Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 3,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 270
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 5,
+      "E2": 4,
+      "A320FAM": 17,
+      "A330": 0,
+      "A350": 6,
+      "B787": 10
+    },
+    "headcount": {
+      "Pilot": 275,
+      "Cabin Crew": 606,
+      "Ground Staff": 1412,
+      "Maintenance Engineer": 296,
+      "Operations Coordinator": 146
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 22584,
+      "Cabin Crew": 52803,
+      "Ground Staff": 203175,
+      "Maintenance Engineer": 39872,
+      "Operations Coordinator": 20940
+    },
+    "daily_flights_touching_hub": 98.6
+  },
+  {
+    "hub": "CPH",
+    "name": "Copenhagen Kastrup",
+    "country": "DK",
+    "timezone": "Europe/Copenhagen",
+    "gates": 38,
+    "facilities": [
+      {
+        "facility_id": "MF-CPH-LINE",
+        "name": "Copenhagen Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 3,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 270
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 7,
+      "E2": 3,
+      "A320FAM": 14,
+      "A330": 1,
+      "A350": 0,
+      "B787": 0
+    },
+    "headcount": {
+      "Pilot": 144,
+      "Cabin Crew": 278,
+      "Ground Staff": 1036,
+      "Maintenance Engineer": 176,
+      "Operations Coordinator": 108
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 11722,
+      "Cabin Crew": 24354,
+      "Ground Staff": 149940,
+      "Maintenance Engineer": 23646,
+      "Operations Coordinator": 15915
+    },
+    "daily_flights_touching_hub": 74.6
+  },
+  {
+    "hub": "ARN",
+    "name": "Stockholm Arlanda",
+    "country": "SE",
+    "timezone": "Europe/Stockholm",
+    "gates": 31,
+    "facilities": [
+      {
+        "facility_id": "MF-ARN-LINE",
+        "name": "Stockholm Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 2,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 180
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 2,
+      "E2": 1,
+      "A320FAM": 20,
+      "A330": 0,
+      "A350": 0,
+      "B787": 0
+    },
+    "headcount": {
+      "Pilot": 148,
+      "Cabin Crew": 267,
+      "Ground Staff": 854,
+      "Maintenance Engineer": 157,
+      "Operations Coordinator": 76
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 12180,
+      "Cabin Crew": 23472,
+      "Ground Staff": 123090,
+      "Maintenance Engineer": 21210,
+      "Operations Coordinator": 10965
+    },
+    "daily_flights_touching_hub": 53.1
+  },
+  {
+    "hub": "WAW",
+    "name": "Warsaw Chopin",
+    "country": "PL",
+    "timezone": "Europe/Warsaw",
+    "gates": 31,
+    "facilities": [
+      {
+        "facility_id": "MF-WAW-LINE",
+        "name": "Warsaw Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 2,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 180
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 2,
+      "E2": 1,
+      "A320FAM": 9,
+      "A330": 0,
+      "A350": 0,
+      "B787": 0
+    },
+    "headcount": {
+      "Pilot": 81,
+      "Cabin Crew": 127,
+      "Ground Staff": 546,
+      "Maintenance Engineer": 84,
+      "Operations Coordinator": 54
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 6622,
+      "Cabin Crew": 10998,
+      "Ground Staff": 78120,
+      "Maintenance Engineer": 11522,
+      "Operations Coordinator": 7830
+    },
+    "daily_flights_touching_hub": 35.4
+  },
+  {
+    "hub": "ATH",
+    "name": "Athens Venizelos",
+    "country": "GR",
+    "timezone": "Europe/Athens",
+    "gates": 31,
+    "facilities": [
+      {
+        "facility_id": "MF-ATH-LINE",
+        "name": "Athens Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 2,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 180
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 3,
+      "E2": 1,
+      "A320FAM": 17,
+      "A330": 7,
+      "A350": 0,
+      "B787": 0
+    },
+    "headcount": {
+      "Pilot": 159,
+      "Cabin Crew": 363,
+      "Ground Staff": 576,
+      "Maintenance Engineer": 200,
+      "Operations Coordinator": 79
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 12946,
+      "Cabin Crew": 31473,
+      "Ground Staff": 83205,
+      "Maintenance Engineer": 26880,
+      "Operations Coordinator": 11430
+    },
+    "daily_flights_touching_hub": 52.3
+  },
+  {
+    "hub": "DUB",
+    "name": "Dublin Airport",
+    "country": "IE",
+    "timezone": "Europe/Dublin",
+    "gates": 31,
+    "facilities": [
+      {
+        "facility_id": "MF-DUB-LINE",
+        "name": "Dublin Line Maintenance",
+        "facility_type": "LINE_MAINTENANCE",
+        "hangar_bays": 2,
+        "supported_families": "A220|E2|A320FAM|A330|A350|B787",
+        "labor_capacity_hours_per_day": 180
+      }
+    ],
+    "aircraft_homed": {
+      "A220": 1,
+      "E2": 0,
+      "A320FAM": 12,
+      "A330": 0,
+      "A350": 0,
+      "B787": 0
+    },
+    "headcount": {
+      "Pilot": 74,
+      "Cabin Crew": 149,
+      "Ground Staff": 574,
+      "Maintenance Engineer": 88,
+      "Operations Coordinator": 64
+    },
+    "monthly_capacity_hours": {
+      "Pilot": 5942,
+      "Cabin Crew": 12879,
+      "Ground Staff": 82890,
+      "Maintenance Engineer": 11760,
+      "Operations Coordinator": 9195
+    },
+    "daily_flights_touching_hub": 41.1
+  }
+]

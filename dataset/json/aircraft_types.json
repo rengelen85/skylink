@@ -1,0 +1,86 @@
+[
+  {
+    "aircraft_type": "A220-300",
+    "family": "A220",
+    "body_type": "narrow",
+    "seats": 148,
+    "fleet_size": 90,
+    "cruise_speed_kmh": 780,
+    "range_km": 6000,
+    "pilot_type_rating_skill": "TR_A220",
+    "engineer_type_skill": "MT_A220",
+    "min_cabin_crew": 3
+  },
+  {
+    "aircraft_type": "E195-E2",
+    "family": "E2",
+    "body_type": "narrow",
+    "seats": 132,
+    "fleet_size": 60,
+    "cruise_speed_kmh": 760,
+    "range_km": 4800,
+    "pilot_type_rating_skill": "TR_E2",
+    "engineer_type_skill": "MT_E2",
+    "min_cabin_crew": 3
+  },
+  {
+    "aircraft_type": "A320neo",
+    "family": "A320FAM",
+    "body_type": "narrow",
+    "seats": 180,
+    "fleet_size": 220,
+    "cruise_speed_kmh": 800,
+    "range_km": 6300,
+    "pilot_type_rating_skill": "TR_A320FAM",
+    "engineer_type_skill": "MT_A320FAM",
+    "min_cabin_crew": 4
+  },
+  {
+    "aircraft_type": "A321neo",
+    "family": "A320FAM",
+    "body_type": "narrow",
+    "seats": 220,
+    "fleet_size": 130,
+    "cruise_speed_kmh": 800,
+    "range_km": 7400,
+    "pilot_type_rating_skill": "TR_A320FAM",
+    "engineer_type_skill": "MT_A320FAM",
+    "min_cabin_crew": 5
+  },
+  {
+    "aircraft_type": "A330-900",
+    "family": "A330",
+    "body_type": "wide",
+    "seats": 290,
+    "fleet_size": 55,
+    "cruise_speed_kmh": 850,
+    "range_km": 12000,
+    "pilot_type_rating_skill": "TR_A330",
+    "engineer_type_skill": "MT_A330",
+    "min_cabin_crew": 7
+  },
+  {
+    "aircraft_type": "A350-900",
+    "family": "A350",
+    "body_type": "wide",
+    "seats": 325,
+    "fleet_size": 50,
+    "cruise_speed_kmh": 870,
+    "range_km": 15000,
+    "pilot_type_rating_skill": "TR_A350",
+    "engineer_type_skill": "MT_A350",
+    "min_cabin_crew": 8
+  },
+  {
+    "aircraft_type": "B787-9",
+    "family": "B787",
+    "body_type": "wide",
+    "seats": 296,
+    "fleet_size": 45,
+    "cruise_speed_kmh": 870,
+    "range_km": 14000,
+    "pilot_type_rating_skill": "TR_B787",
+    "engineer_type_skill": "MT_B787",
+    "min_cabin_crew": 7
+  }
+]

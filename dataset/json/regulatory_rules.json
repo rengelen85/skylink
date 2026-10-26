@@ -1,0 +1,137 @@
+[
+  {
+    "rule_id": "FTL-P-01",
+    "applies_to_role": "Pilot",
+    "rule_name": "Max flight duty period (basic)",
+    "limit_value": 13,
+    "unit": "hours",
+    "window": "per duty",
+    "notes": "Simplified; loosely modelled on EASA ORO.FTL. Not legal advice."
+  },
+  {
+    "rule_id": "FTL-P-02",
+    "applies_to_role": "Pilot",
+    "rule_name": "Max block time",
+    "limit_value": 100,
+    "unit": "hours",
+    "window": "rolling 28 days",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "FTL-P-03",
+    "applies_to_role": "Pilot",
+    "rule_name": "Max block time",
+    "limit_value": 900,
+    "unit": "hours",
+    "window": "calendar year",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "FTL-P-04",
+    "applies_to_role": "Pilot",
+    "rule_name": "Minimum rest between duties",
+    "limit_value": 12,
+    "unit": "hours",
+    "window": "per duty",
+    "notes": "Simplified (home base)"
+  },
+  {
+    "rule_id": "FTL-P-05",
+    "applies_to_role": "Pilot",
+    "rule_name": "Max consecutive duty days",
+    "limit_value": 6,
+    "unit": "days",
+    "window": "rolling",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "FTL-P-06",
+    "applies_to_role": "Pilot",
+    "rule_name": "Max sectors per duty",
+    "limit_value": 4,
+    "unit": "sectors",
+    "window": "per duty",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "FTL-C-01",
+    "applies_to_role": "Cabin Crew",
+    "rule_name": "Max duty period",
+    "limit_value": 13,
+    "unit": "hours",
+    "window": "per duty",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "FTL-C-02",
+    "applies_to_role": "Cabin Crew",
+    "rule_name": "Minimum rest between duties",
+    "limit_value": 10,
+    "unit": "hours",
+    "window": "per duty",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "FTL-C-03",
+    "applies_to_role": "Cabin Crew",
+    "rule_name": "Max flight time",
+    "limit_value": 100,
+    "unit": "hours",
+    "window": "rolling 28 days",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "MX-01",
+    "applies_to_role": "Maintenance Engineer",
+    "rule_name": "Max working time",
+    "limit_value": 10,
+    "unit": "hours",
+    "window": "per day",
+    "notes": "Simplified"
+  },
+  {
+    "rule_id": "MX-02",
+    "applies_to_role": "Maintenance Engineer",
+    "rule_name": "Certifying staff must hold valid licence AND type endorsement for the aircraft family",
+    "limit_value": null,
+    "unit": null,
+    "window": "per task sign-off",
+    "notes": "Compliance rule"
+  },
+  {
+    "rule_id": "LIC-01",
+    "applies_to_role": "Pilot",
+    "rule_name": "Type rating must be valid (not expired) on the date of flight",
+    "limit_value": null,
+    "unit": null,
+    "window": "per flight",
+    "notes": "Compliance rule"
+  },
+  {
+    "rule_id": "SEC-01",
+    "applies_to_role": "All",
+    "rule_name": "Valid airport access ID required for airside work",
+    "limit_value": null,
+    "unit": null,
+    "window": "per shift",
+    "notes": "Compliance rule"
+  },
+  {
+    "rule_id": "GR-01",
+    "applies_to_role": "Ground Staff",
+    "rule_name": "De-icing operators need valid annual de-icing certificate",
+    "limit_value": null,
+    "unit": null,
+    "window": "per shift",
+    "notes": "Compliance rule"
+  },
+  {
+    "rule_id": "CC-01",
+    "applies_to_role": "Cabin Crew",
+    "rule_name": "Minimum cabin crew = 1 per 50 seats (see aircraft_types.min_cabin_crew); every flight needs a qualified Purser",
+    "limit_value": null,
+    "unit": null,
+    "window": "per flight",
+    "notes": "Compliance rule"
+  }
+]

@@ -1,0 +1,63 @@
+skill_id,category,name,description,validity_months,applicable_roles,renewal_course_code
+TR_A220,AIRCRAFT_TYPE_RATING,Type rating Airbus A220,"Pilot type rating, renewed annually through a simulator proficiency check",12,Pilot,SIM_PC
+TR_E2,AIRCRAFT_TYPE_RATING,Type rating Embraer E195-E2,"Pilot type rating, renewed annually through a simulator proficiency check",12,Pilot,SIM_PC
+TR_A320FAM,AIRCRAFT_TYPE_RATING,Type rating Airbus A320 family (A320neo/A321neo),"Pilot type rating, renewed annually through a simulator proficiency check",12,Pilot,SIM_PC
+TR_A330,AIRCRAFT_TYPE_RATING,Type rating Airbus A330,"Pilot type rating, renewed annually through a simulator proficiency check",12,Pilot,SIM_PC
+TR_A350,AIRCRAFT_TYPE_RATING,Type rating Airbus A350,"Pilot type rating, renewed annually through a simulator proficiency check",12,Pilot,SIM_PC
+TR_B787,AIRCRAFT_TYPE_RATING,Type rating Boeing 787,"Pilot type rating, renewed annually through a simulator proficiency check",12,Pilot,SIM_PC
+PR_CAT3,PILOT_RATING,CAT II/III low-visibility approach,CAT II/III low-visibility approach,12,Pilot,SIM_PC
+PR_LVO,PILOT_RATING,Low Visibility Operations (LVTO),Low Visibility Operations (LVTO),12,Pilot,SIM_PC
+PR_ETOPS,PILOT_RATING,ETOPS / extended-range operations,ETOPS / extended-range operations,12,Pilot,SIM_PC
+PR_TRI,PILOT_RATING,Type Rating Instructor,Type Rating Instructor,36,Pilot,
+PR_TRE,PILOT_RATING,Type Rating Examiner,Type Rating Examiner,36,Pilot,
+CQ_NARROW,CABIN_QUALIFICATION,Cabin type qualification narrow-body,Cabin type qualification narrow-body,36,Cabin Crew,
+CQ_WIDE,CABIN_QUALIFICATION,Cabin type qualification wide-body,Cabin type qualification wide-body,36,Cabin Crew,
+CC_SEP,CABIN_QUALIFICATION,Safety & Emergency Procedures (annual),Safety & Emergency Procedures (annual),12,Cabin Crew,SEP
+CC_FIRSTAID,CABIN_QUALIFICATION,Cabin first aid,Cabin first aid,36,Cabin Crew,FIRSTAID
+CC_PURSER,CABIN_QUALIFICATION,Purser / cabin lead qualification,Purser / cabin lead qualification,,Cabin Crew,
+SC_AIRPORT_ID,SECURITY_CLEARANCE,Airport access ID (airside),Airport access ID (airside),60,All,
+SC_AVSEC,SECURITY_CLEARANCE,Aviation security awareness,Aviation security awareness,36,All,AVSEC
+SC_DG,SECURITY_CLEARANCE,Dangerous goods handling,Dangerous goods handling,24,Pilot|Cabin Crew|Ground Staff,DG
+SC_ENHANCED,SECURITY_CLEARANCE,Enhanced background-check clearance,Enhanced background-check clearance,60,Ground Staff|Operations Coordinator|Maintenance Engineer,
+MC_B1,MAINTENANCE_CERTIFICATION,Part-66 B1 licence (mechanical),Part-66 B1 licence (mechanical),60,Maintenance Engineer,
+MC_B2,MAINTENANCE_CERTIFICATION,Part-66 B2 licence (avionics),Part-66 B2 licence (avionics),60,Maintenance Engineer,
+MC_C,MAINTENANCE_CERTIFICATION,Base maintenance certifying staff (C),Base maintenance certifying staff (C),60,Maintenance Engineer,
+MC_TECH,MAINTENANCE_CERTIFICATION,Technician authorisation,Technician authorisation,24,Maintenance Engineer,
+MC_NDT,MAINTENANCE_CERTIFICATION,Non-destructive testing,Non-destructive testing,36,Maintenance Engineer,
+MC_COMPOSITE,MAINTENANCE_CERTIFICATION,Composite repair,Composite repair,36,Maintenance Engineer,
+MT_A220,MAINTENANCE_TYPE_ENDORSEMENT,Engineer type endorsement Airbus A220,Engineer type endorsement Airbus A220,,Maintenance Engineer,
+MT_E2,MAINTENANCE_TYPE_ENDORSEMENT,Engineer type endorsement Embraer E195-E2,Engineer type endorsement Embraer E195-E2,,Maintenance Engineer,
+MT_A320FAM,MAINTENANCE_TYPE_ENDORSEMENT,Engineer type endorsement Airbus A320 family (A320neo/A321neo),Engineer type endorsement Airbus A320 family (A320neo/A321neo),,Maintenance Engineer,
+MT_A330,MAINTENANCE_TYPE_ENDORSEMENT,Engineer type endorsement Airbus A330,Engineer type endorsement Airbus A330,,Maintenance Engineer,
+MT_A350,MAINTENANCE_TYPE_ENDORSEMENT,Engineer type endorsement Airbus A350,Engineer type endorsement Airbus A350,,Maintenance Engineer,
+MT_B787,MAINTENANCE_TYPE_ENDORSEMENT,Engineer type endorsement Boeing 787,Engineer type endorsement Boeing 787,,Maintenance Engineer,
+GC_RAMP,GROUND_CERTIFICATION,Ramp handling,Ramp handling,24,Ground Staff,
+GC_BAGGAGE,GROUND_CERTIFICATION,Baggage handling,Baggage handling,24,Ground Staff,
+GC_PUSHBACK,GROUND_CERTIFICATION,Pushback / tow,Pushback / tow,24,Ground Staff,
+GC_DEICING,GROUND_CERTIFICATION,De-icing operator,De-icing operator,12,Ground Staff,DEICING
+GC_LOADCONTROL,GROUND_CERTIFICATION,Load control & weight and balance,Load control & weight and balance,24,Ground Staff,LOADCTRL
+GC_PRM,GROUND_CERTIFICATION,Passengers with reduced mobility assistance,Passengers with reduced mobility assistance,24,Ground Staff,PRM
+GC_FUELING,GROUND_CERTIFICATION,Aircraft fuelling,Aircraft fuelling,24,Ground Staff,
+GC_CHECKIN,GROUND_CERTIFICATION,Check-in systems,Check-in systems,24,Ground Staff,
+GC_GATE,GROUND_CERTIFICATION,Gate / boarding,Gate / boarding,24,Ground Staff,
+GC_CLEANING,GROUND_CERTIFICATION,Aircraft cleaning,Aircraft cleaning,24,Ground Staff,
+OC_DISPATCH,OPS_CERTIFICATION,Flight dispatcher licence,Flight dispatcher licence,36,Operations Coordinator,
+OC_CREWCTRL,OPS_CERTIFICATION,Crew control certification,Crew control certification,36,Operations Coordinator,
+OC_MXCTRL,OPS_CERTIFICATION,Maintenance control certification,Maintenance control certification,36,Operations Coordinator,
+OC_DUTYMGR,OPS_CERTIFICATION,Duty manager certification,Duty manager certification,36,Operations Coordinator,
+OC_NETWORK,OPS_CERTIFICATION,Network control certification,Network control certification,36,Operations Coordinator,
+LANG_EN,LANGUAGE,Language: English,English (CEFR level in employee_skills.level),,All,
+LANG_DE,LANGUAGE,Language: German,German (CEFR level in employee_skills.level),,All,
+LANG_FR,LANGUAGE,Language: French,French (CEFR level in employee_skills.level),,All,
+LANG_ES,LANGUAGE,Language: Spanish,Spanish (CEFR level in employee_skills.level),,All,
+LANG_IT,LANGUAGE,Language: Italian,Italian (CEFR level in employee_skills.level),,All,
+LANG_NL,LANGUAGE,Language: Dutch,Dutch (CEFR level in employee_skills.level),,All,
+LANG_PT,LANGUAGE,Language: Portuguese,Portuguese (CEFR level in employee_skills.level),,All,
+LANG_DA,LANGUAGE,Language: Danish,Danish (CEFR level in employee_skills.level),,All,
+LANG_SV,LANGUAGE,Language: Swedish,Swedish (CEFR level in employee_skills.level),,All,
+LANG_PL,LANGUAGE,Language: Polish,Polish (CEFR level in employee_skills.level),,All,
+LANG_EL,LANGUAGE,Language: Greek,Greek (CEFR level in employee_skills.level),,All,
+LANG_TR,LANGUAGE,Language: Turkish,Turkish (CEFR level in employee_skills.level),,All,
+LANG_AR,LANGUAGE,Language: Arabic,Arabic (CEFR level in employee_skills.level),,All,
+LANG_RU,LANGUAGE,Language: Russian,Russian (CEFR level in employee_skills.level),,All,
+LANG_ZH,LANGUAGE,Language: Chinese,Chinese (CEFR level in employee_skills.level),,All,

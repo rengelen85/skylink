@@ -1,0 +1,9 @@
+route_launch_id,origin,destination,launch_date,frequency_per_week,aircraft_type,block_minutes,distance_km,status,expected_load_factor_ramp
+NR001,AMS,NRT,2027-03-28,7,B787-9,674,9318,APPROVED,0.65 -> 0.80 over 6 months
+NR002,MUC,BOS,2027-03-28,5,A350-900,458,6182,APPROVED,0.65 -> 0.80 over 6 months
+NR003,LIS,GRU,2027-05-03,4,A330-900,592,7934,APPROVED,0.65 -> 0.80 over 6 months
+NR004,FRA,DEL,2027-06-01,4,A350-900,454,6120,PLANNED,0.65 -> 0.80 over 6 months
+NR005,BCN,TLV,2027-03-28,7,A321neo,263,3081,APPROVED,0.65 -> 0.80 over 6 months
+NR006,CPH,KEF,2027-04-26,5,A220-300,196,2144,PLANNED,0.65 -> 0.80 over 6 months
+NR007,WAW,LCA,2027-05-01,3,A320neo,194,2169,PLANNED,0.65 -> 0.80 over 6 months
+NR008,ZRH,MIA,2027-09-01,4,A350-900,573,7845,UNDER_REVIEW,0.65 -> 0.80 over 6 months

@@ -1,0 +1,77 @@
+[
+  {
+    "scenario_id": "SC1",
+    "name": "Passenger volume +15%",
+    "parameters": {
+      "passenger_growth_pct": 15,
+      "scope": "all hubs",
+      "horizon": "next 12 months"
+    },
+    "questions": [
+      "Which hubs/roles exceed 100% utilization?",
+      "How many extra pilots/cabin crew are needed?"
+    ]
+  },
+  {
+    "scenario_id": "SC2",
+    "name": "30 pilots unavailable",
+    "parameters": {
+      "unavailable_pilots": 30,
+      "hub": "AMS",
+      "fleet_family": "A320FAM",
+      "start": "2026-11-02",
+      "duration_days": 14
+    },
+    "questions": [
+      "Which flights are at risk?",
+      "Who can backfill?"
+    ]
+  },
+  {
+    "scenario_id": "SC3",
+    "name": "Storm Aurelia rebalancing",
+    "parameters": {
+      "disruption_group": "Storm Aurelia",
+      "window": "2026-10-29 03:00Z to 2026-10-30 02:00Z"
+    },
+    "questions": [
+      "Which flights to cancel/retime?",
+      "How to reposition crews and aircraft?"
+    ]
+  },
+  {
+    "scenario_id": "SC4",
+    "name": "Open a new hub",
+    "parameters": {
+      "candidate_id": "CH1",
+      "airport": "BRU"
+    },
+    "questions": [
+      "Headcount per role?",
+      "Cost and ramp-up timeline?"
+    ]
+  },
+  {
+    "scenario_id": "SC5",
+    "name": "Summer 2027 peak",
+    "parameters": {
+      "period": "2027-07-01..2027-08-31",
+      "pending_vacations": "treat as approved vs denied"
+    },
+    "questions": [
+      "Do we have enough pilots?",
+      "Which hubs are short?"
+    ]
+  },
+  {
+    "scenario_id": "SC6",
+    "name": "Aircraft AOG cluster",
+    "parameters": {
+      "source": "maintenance_activities where aog_flag=1 and status=IN_PROGRESS"
+    },
+    "questions": [
+      "Which flights lose their aircraft?",
+      "Which spare aircraft can substitute?"
+    ]
+  }
+]

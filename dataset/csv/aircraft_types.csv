@@ -1,0 +1,8 @@
+aircraft_type,family,body_type,seats,fleet_size,cruise_speed_kmh,range_km,pilot_type_rating_skill,engineer_type_skill,min_cabin_crew
+A220-300,A220,narrow,148,90,780,6000,TR_A220,MT_A220,3
+E195-E2,E2,narrow,132,60,760,4800,TR_E2,MT_E2,3
+A320neo,A320FAM,narrow,180,220,800,6300,TR_A320FAM,MT_A320FAM,4
+A321neo,A320FAM,narrow,220,130,800,7400,TR_A320FAM,MT_A320FAM,5
+A330-900,A330,wide,290,55,850,12000,TR_A330,MT_A330,7
+A350-900,A350,wide,325,50,870,15000,TR_A350,MT_A350,8
+B787-9,B787,wide,296,45,870,14000,TR_B787,MT_B787,7

@@ -1,0 +1,434 @@
+[
+  {
+    "route_launch_id": "NR001",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 9,
+    "required_skill_id": "TR_B787",
+    "ready_by_date": "2026-11-28",
+    "location_hub": "AMS"
+  },
+  {
+    "route_launch_id": "NR001",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 11,
+    "required_skill_id": "TR_B787",
+    "ready_by_date": "2026-11-28",
+    "location_hub": "AMS"
+  },
+  {
+    "route_launch_id": "NR001",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 71,
+    "required_skill_id": "CQ_WIDE",
+    "ready_by_date": "2027-01-27",
+    "location_hub": "AMS"
+  },
+  {
+    "route_launch_id": "NR001",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 16,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-02-26",
+    "location_hub": "AMS"
+  },
+  {
+    "route_launch_id": "NR001",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 12,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-02-26",
+    "location_hub": "AMS"
+  },
+  {
+    "route_launch_id": "NR001",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 3,
+    "required_skill_id": "MT_B787",
+    "ready_by_date": "2026-12-28",
+    "location_hub": "AMS"
+  },
+  {
+    "route_launch_id": "NR002",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 3,
+    "required_skill_id": "TR_A350",
+    "ready_by_date": "2026-11-28",
+    "location_hub": "MUC"
+  },
+  {
+    "route_launch_id": "NR002",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 3,
+    "required_skill_id": "TR_A350",
+    "ready_by_date": "2026-11-28",
+    "location_hub": "MUC"
+  },
+  {
+    "route_launch_id": "NR002",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 40,
+    "required_skill_id": "CQ_WIDE",
+    "ready_by_date": "2027-01-27",
+    "location_hub": "MUC"
+  },
+  {
+    "route_launch_id": "NR002",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 11,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-02-26",
+    "location_hub": "MUC"
+  },
+  {
+    "route_launch_id": "NR002",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 8,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-02-26",
+    "location_hub": "MUC"
+  },
+  {
+    "route_launch_id": "NR002",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 2,
+    "required_skill_id": "MT_A350",
+    "ready_by_date": "2026-12-28",
+    "location_hub": "MUC"
+  },
+  {
+    "route_launch_id": "NR003",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 5,
+    "required_skill_id": "TR_A330",
+    "ready_by_date": "2027-01-03",
+    "location_hub": "LIS"
+  },
+  {
+    "route_launch_id": "NR003",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 6,
+    "required_skill_id": "TR_A330",
+    "ready_by_date": "2027-01-03",
+    "location_hub": "LIS"
+  },
+  {
+    "route_launch_id": "NR003",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 36,
+    "required_skill_id": "CQ_WIDE",
+    "ready_by_date": "2027-03-04",
+    "location_hub": "LIS"
+  },
+  {
+    "route_launch_id": "NR003",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 9,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-04-03",
+    "location_hub": "LIS"
+  },
+  {
+    "route_launch_id": "NR003",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 7,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-04-03",
+    "location_hub": "LIS"
+  },
+  {
+    "route_launch_id": "NR003",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 2,
+    "required_skill_id": "MT_A330",
+    "ready_by_date": "2027-02-02",
+    "location_hub": "LIS"
+  },
+  {
+    "route_launch_id": "NR004",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 3,
+    "required_skill_id": "TR_A350",
+    "ready_by_date": "2027-02-01",
+    "location_hub": "FRA"
+  },
+  {
+    "route_launch_id": "NR004",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 3,
+    "required_skill_id": "TR_A350",
+    "ready_by_date": "2027-02-01",
+    "location_hub": "FRA"
+  },
+  {
+    "route_launch_id": "NR004",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 32,
+    "required_skill_id": "CQ_WIDE",
+    "ready_by_date": "2027-04-02",
+    "location_hub": "FRA"
+  },
+  {
+    "route_launch_id": "NR004",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 9,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-05-02",
+    "location_hub": "FRA"
+  },
+  {
+    "route_launch_id": "NR004",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 7,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-05-02",
+    "location_hub": "FRA"
+  },
+  {
+    "route_launch_id": "NR004",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 2,
+    "required_skill_id": "MT_A350",
+    "ready_by_date": "2027-03-03",
+    "location_hub": "FRA"
+  },
+  {
+    "route_launch_id": "NR005",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 3,
+    "required_skill_id": "TR_A320FAM",
+    "ready_by_date": "2026-11-28",
+    "location_hub": "BCN"
+  },
+  {
+    "route_launch_id": "NR005",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 3,
+    "required_skill_id": "TR_A320FAM",
+    "ready_by_date": "2026-11-28",
+    "location_hub": "BCN"
+  },
+  {
+    "route_launch_id": "NR005",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 20,
+    "required_skill_id": "CQ_NARROW",
+    "ready_by_date": "2027-01-27",
+    "location_hub": "BCN"
+  },
+  {
+    "route_launch_id": "NR005",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 16,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-02-26",
+    "location_hub": "BCN"
+  },
+  {
+    "route_launch_id": "NR005",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 12,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-02-26",
+    "location_hub": "BCN"
+  },
+  {
+    "route_launch_id": "NR005",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 3,
+    "required_skill_id": "MT_A320FAM",
+    "ready_by_date": "2026-12-28",
+    "location_hub": "BCN"
+  },
+  {
+    "route_launch_id": "NR006",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 2,
+    "required_skill_id": "TR_A220",
+    "ready_by_date": "2026-12-27",
+    "location_hub": "CPH"
+  },
+  {
+    "route_launch_id": "NR006",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 2,
+    "required_skill_id": "TR_A220",
+    "ready_by_date": "2026-12-27",
+    "location_hub": "CPH"
+  },
+  {
+    "route_launch_id": "NR006",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 7,
+    "required_skill_id": "CQ_NARROW",
+    "ready_by_date": "2027-02-25",
+    "location_hub": "CPH"
+  },
+  {
+    "route_launch_id": "NR006",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 11,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-03-27",
+    "location_hub": "CPH"
+  },
+  {
+    "route_launch_id": "NR006",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 8,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-03-27",
+    "location_hub": "CPH"
+  },
+  {
+    "route_launch_id": "NR006",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 2,
+    "required_skill_id": "MT_A220",
+    "ready_by_date": "2027-01-26",
+    "location_hub": "CPH"
+  },
+  {
+    "route_launch_id": "NR007",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 1,
+    "required_skill_id": "TR_A320FAM",
+    "ready_by_date": "2027-01-01",
+    "location_hub": "WAW"
+  },
+  {
+    "route_launch_id": "NR007",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 1,
+    "required_skill_id": "TR_A320FAM",
+    "ready_by_date": "2027-01-01",
+    "location_hub": "WAW"
+  },
+  {
+    "route_launch_id": "NR007",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 5,
+    "required_skill_id": "CQ_NARROW",
+    "ready_by_date": "2027-03-02",
+    "location_hub": "WAW"
+  },
+  {
+    "route_launch_id": "NR007",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 7,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-04-01",
+    "location_hub": "WAW"
+  },
+  {
+    "route_launch_id": "NR007",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 5,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-04-01",
+    "location_hub": "WAW"
+  },
+  {
+    "route_launch_id": "NR007",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 1,
+    "required_skill_id": "MT_A320FAM",
+    "ready_by_date": "2027-01-31",
+    "location_hub": "WAW"
+  },
+  {
+    "route_launch_id": "NR008",
+    "role": "Pilot",
+    "sub_role": "Captain",
+    "headcount_required": 4,
+    "required_skill_id": "TR_A350",
+    "ready_by_date": "2027-05-04",
+    "location_hub": "ZRH"
+  },
+  {
+    "route_launch_id": "NR008",
+    "role": "Pilot",
+    "sub_role": "First Officer",
+    "headcount_required": 6,
+    "required_skill_id": "TR_A350",
+    "ready_by_date": "2027-05-04",
+    "location_hub": "ZRH"
+  },
+  {
+    "route_launch_id": "NR008",
+    "role": "Cabin Crew",
+    "sub_role": "Cabin Attendant",
+    "headcount_required": 40,
+    "required_skill_id": "CQ_WIDE",
+    "ready_by_date": "2027-07-03",
+    "location_hub": "ZRH"
+  },
+  {
+    "route_launch_id": "NR008",
+    "role": "Ground Staff",
+    "sub_role": "Ramp Agent",
+    "headcount_required": 9,
+    "required_skill_id": "GC_RAMP",
+    "ready_by_date": "2027-08-02",
+    "location_hub": "ZRH"
+  },
+  {
+    "route_launch_id": "NR008",
+    "role": "Ground Staff",
+    "sub_role": "Check-in Agent",
+    "headcount_required": 7,
+    "required_skill_id": "GC_CHECKIN",
+    "ready_by_date": "2027-08-02",
+    "location_hub": "ZRH"
+  },
+  {
+    "route_launch_id": "NR008",
+    "role": "Maintenance Engineer",
+    "sub_role": "B1 Engineer",
+    "headcount_required": 2,
+    "required_skill_id": "MT_A350",
+    "ready_by_date": "2027-06-03",
+    "location_hub": "ZRH"
+  }
+]

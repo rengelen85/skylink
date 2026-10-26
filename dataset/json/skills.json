@@ -1,0 +1,560 @@
+[
+  {
+    "skill_id": "TR_A220",
+    "category": "AIRCRAFT_TYPE_RATING",
+    "name": "Type rating Airbus A220",
+    "description": "Pilot type rating, renewed annually through a simulator proficiency check",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "TR_E2",
+    "category": "AIRCRAFT_TYPE_RATING",
+    "name": "Type rating Embraer E195-E2",
+    "description": "Pilot type rating, renewed annually through a simulator proficiency check",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "TR_A320FAM",
+    "category": "AIRCRAFT_TYPE_RATING",
+    "name": "Type rating Airbus A320 family (A320neo/A321neo)",
+    "description": "Pilot type rating, renewed annually through a simulator proficiency check",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "TR_A330",
+    "category": "AIRCRAFT_TYPE_RATING",
+    "name": "Type rating Airbus A330",
+    "description": "Pilot type rating, renewed annually through a simulator proficiency check",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "TR_A350",
+    "category": "AIRCRAFT_TYPE_RATING",
+    "name": "Type rating Airbus A350",
+    "description": "Pilot type rating, renewed annually through a simulator proficiency check",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "TR_B787",
+    "category": "AIRCRAFT_TYPE_RATING",
+    "name": "Type rating Boeing 787",
+    "description": "Pilot type rating, renewed annually through a simulator proficiency check",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "PR_CAT3",
+    "category": "PILOT_RATING",
+    "name": "CAT II/III low-visibility approach",
+    "description": "CAT II/III low-visibility approach",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "PR_LVO",
+    "category": "PILOT_RATING",
+    "name": "Low Visibility Operations (LVTO)",
+    "description": "Low Visibility Operations (LVTO)",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "PR_ETOPS",
+    "category": "PILOT_RATING",
+    "name": "ETOPS / extended-range operations",
+    "description": "ETOPS / extended-range operations",
+    "validity_months": 12,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": "SIM_PC"
+  },
+  {
+    "skill_id": "PR_TRI",
+    "category": "PILOT_RATING",
+    "name": "Type Rating Instructor",
+    "description": "Type Rating Instructor",
+    "validity_months": 36,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "PR_TRE",
+    "category": "PILOT_RATING",
+    "name": "Type Rating Examiner",
+    "description": "Type Rating Examiner",
+    "validity_months": 36,
+    "applicable_roles": "Pilot",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "CQ_NARROW",
+    "category": "CABIN_QUALIFICATION",
+    "name": "Cabin type qualification narrow-body",
+    "description": "Cabin type qualification narrow-body",
+    "validity_months": 36,
+    "applicable_roles": "Cabin Crew",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "CQ_WIDE",
+    "category": "CABIN_QUALIFICATION",
+    "name": "Cabin type qualification wide-body",
+    "description": "Cabin type qualification wide-body",
+    "validity_months": 36,
+    "applicable_roles": "Cabin Crew",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "CC_SEP",
+    "category": "CABIN_QUALIFICATION",
+    "name": "Safety & Emergency Procedures (annual)",
+    "description": "Safety & Emergency Procedures (annual)",
+    "validity_months": 12,
+    "applicable_roles": "Cabin Crew",
+    "renewal_course_code": "SEP"
+  },
+  {
+    "skill_id": "CC_FIRSTAID",
+    "category": "CABIN_QUALIFICATION",
+    "name": "Cabin first aid",
+    "description": "Cabin first aid",
+    "validity_months": 36,
+    "applicable_roles": "Cabin Crew",
+    "renewal_course_code": "FIRSTAID"
+  },
+  {
+    "skill_id": "CC_PURSER",
+    "category": "CABIN_QUALIFICATION",
+    "name": "Purser / cabin lead qualification",
+    "description": "Purser / cabin lead qualification",
+    "validity_months": null,
+    "applicable_roles": "Cabin Crew",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "SC_AIRPORT_ID",
+    "category": "SECURITY_CLEARANCE",
+    "name": "Airport access ID (airside)",
+    "description": "Airport access ID (airside)",
+    "validity_months": 60,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "SC_AVSEC",
+    "category": "SECURITY_CLEARANCE",
+    "name": "Aviation security awareness",
+    "description": "Aviation security awareness",
+    "validity_months": 36,
+    "applicable_roles": "All",
+    "renewal_course_code": "AVSEC"
+  },
+  {
+    "skill_id": "SC_DG",
+    "category": "SECURITY_CLEARANCE",
+    "name": "Dangerous goods handling",
+    "description": "Dangerous goods handling",
+    "validity_months": 24,
+    "applicable_roles": "Pilot|Cabin Crew|Ground Staff",
+    "renewal_course_code": "DG"
+  },
+  {
+    "skill_id": "SC_ENHANCED",
+    "category": "SECURITY_CLEARANCE",
+    "name": "Enhanced background-check clearance",
+    "description": "Enhanced background-check clearance",
+    "validity_months": 60,
+    "applicable_roles": "Ground Staff|Operations Coordinator|Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MC_B1",
+    "category": "MAINTENANCE_CERTIFICATION",
+    "name": "Part-66 B1 licence (mechanical)",
+    "description": "Part-66 B1 licence (mechanical)",
+    "validity_months": 60,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MC_B2",
+    "category": "MAINTENANCE_CERTIFICATION",
+    "name": "Part-66 B2 licence (avionics)",
+    "description": "Part-66 B2 licence (avionics)",
+    "validity_months": 60,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MC_C",
+    "category": "MAINTENANCE_CERTIFICATION",
+    "name": "Base maintenance certifying staff (C)",
+    "description": "Base maintenance certifying staff (C)",
+    "validity_months": 60,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MC_TECH",
+    "category": "MAINTENANCE_CERTIFICATION",
+    "name": "Technician authorisation",
+    "description": "Technician authorisation",
+    "validity_months": 24,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MC_NDT",
+    "category": "MAINTENANCE_CERTIFICATION",
+    "name": "Non-destructive testing",
+    "description": "Non-destructive testing",
+    "validity_months": 36,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MC_COMPOSITE",
+    "category": "MAINTENANCE_CERTIFICATION",
+    "name": "Composite repair",
+    "description": "Composite repair",
+    "validity_months": 36,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MT_A220",
+    "category": "MAINTENANCE_TYPE_ENDORSEMENT",
+    "name": "Engineer type endorsement Airbus A220",
+    "description": "Engineer type endorsement Airbus A220",
+    "validity_months": null,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MT_E2",
+    "category": "MAINTENANCE_TYPE_ENDORSEMENT",
+    "name": "Engineer type endorsement Embraer E195-E2",
+    "description": "Engineer type endorsement Embraer E195-E2",
+    "validity_months": null,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MT_A320FAM",
+    "category": "MAINTENANCE_TYPE_ENDORSEMENT",
+    "name": "Engineer type endorsement Airbus A320 family (A320neo/A321neo)",
+    "description": "Engineer type endorsement Airbus A320 family (A320neo/A321neo)",
+    "validity_months": null,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MT_A330",
+    "category": "MAINTENANCE_TYPE_ENDORSEMENT",
+    "name": "Engineer type endorsement Airbus A330",
+    "description": "Engineer type endorsement Airbus A330",
+    "validity_months": null,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MT_A350",
+    "category": "MAINTENANCE_TYPE_ENDORSEMENT",
+    "name": "Engineer type endorsement Airbus A350",
+    "description": "Engineer type endorsement Airbus A350",
+    "validity_months": null,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "MT_B787",
+    "category": "MAINTENANCE_TYPE_ENDORSEMENT",
+    "name": "Engineer type endorsement Boeing 787",
+    "description": "Engineer type endorsement Boeing 787",
+    "validity_months": null,
+    "applicable_roles": "Maintenance Engineer",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "GC_RAMP",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Ramp handling",
+    "description": "Ramp handling",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "GC_BAGGAGE",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Baggage handling",
+    "description": "Baggage handling",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "GC_PUSHBACK",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Pushback / tow",
+    "description": "Pushback / tow",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "GC_DEICING",
+    "category": "GROUND_CERTIFICATION",
+    "name": "De-icing operator",
+    "description": "De-icing operator",
+    "validity_months": 12,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": "DEICING"
+  },
+  {
+    "skill_id": "GC_LOADCONTROL",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Load control & weight and balance",
+    "description": "Load control & weight and balance",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": "LOADCTRL"
+  },
+  {
+    "skill_id": "GC_PRM",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Passengers with reduced mobility assistance",
+    "description": "Passengers with reduced mobility assistance",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": "PRM"
+  },
+  {
+    "skill_id": "GC_FUELING",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Aircraft fuelling",
+    "description": "Aircraft fuelling",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "GC_CHECKIN",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Check-in systems",
+    "description": "Check-in systems",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "GC_GATE",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Gate / boarding",
+    "description": "Gate / boarding",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "GC_CLEANING",
+    "category": "GROUND_CERTIFICATION",
+    "name": "Aircraft cleaning",
+    "description": "Aircraft cleaning",
+    "validity_months": 24,
+    "applicable_roles": "Ground Staff",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "OC_DISPATCH",
+    "category": "OPS_CERTIFICATION",
+    "name": "Flight dispatcher licence",
+    "description": "Flight dispatcher licence",
+    "validity_months": 36,
+    "applicable_roles": "Operations Coordinator",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "OC_CREWCTRL",
+    "category": "OPS_CERTIFICATION",
+    "name": "Crew control certification",
+    "description": "Crew control certification",
+    "validity_months": 36,
+    "applicable_roles": "Operations Coordinator",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "OC_MXCTRL",
+    "category": "OPS_CERTIFICATION",
+    "name": "Maintenance control certification",
+    "description": "Maintenance control certification",
+    "validity_months": 36,
+    "applicable_roles": "Operations Coordinator",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "OC_DUTYMGR",
+    "category": "OPS_CERTIFICATION",
+    "name": "Duty manager certification",
+    "description": "Duty manager certification",
+    "validity_months": 36,
+    "applicable_roles": "Operations Coordinator",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "OC_NETWORK",
+    "category": "OPS_CERTIFICATION",
+    "name": "Network control certification",
+    "description": "Network control certification",
+    "validity_months": 36,
+    "applicable_roles": "Operations Coordinator",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_EN",
+    "category": "LANGUAGE",
+    "name": "Language: English",
+    "description": "English (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_DE",
+    "category": "LANGUAGE",
+    "name": "Language: German",
+    "description": "German (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_FR",
+    "category": "LANGUAGE",
+    "name": "Language: French",
+    "description": "French (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_ES",
+    "category": "LANGUAGE",
+    "name": "Language: Spanish",
+    "description": "Spanish (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_IT",
+    "category": "LANGUAGE",
+    "name": "Language: Italian",
+    "description": "Italian (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_NL",
+    "category": "LANGUAGE",
+    "name": "Language: Dutch",
+    "description": "Dutch (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_PT",
+    "category": "LANGUAGE",
+    "name": "Language: Portuguese",
+    "description": "Portuguese (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_DA",
+    "category": "LANGUAGE",
+    "name": "Language: Danish",
+    "description": "Danish (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_SV",
+    "category": "LANGUAGE",
+    "name": "Language: Swedish",
+    "description": "Swedish (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_PL",
+    "category": "LANGUAGE",
+    "name": "Language: Polish",
+    "description": "Polish (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_EL",
+    "category": "LANGUAGE",
+    "name": "Language: Greek",
+    "description": "Greek (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_TR",
+    "category": "LANGUAGE",
+    "name": "Language: Turkish",
+    "description": "Turkish (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_AR",
+    "category": "LANGUAGE",
+    "name": "Language: Arabic",
+    "description": "Arabic (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_RU",
+    "category": "LANGUAGE",
+    "name": "Language: Russian",
+    "description": "Russian (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  },
+  {
+    "skill_id": "LANG_ZH",
+    "category": "LANGUAGE",
+    "name": "Language: Chinese",
+    "description": "Chinese (CEFR level in employee_skills.level)",
+    "validity_months": null,
+    "applicable_roles": "All",
+    "renewal_course_code": null
+  }
+]

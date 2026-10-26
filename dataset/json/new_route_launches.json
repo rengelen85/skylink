@@ -1,0 +1,98 @@
+[
+  {
+    "route_launch_id": "NR001",
+    "origin": "AMS",
+    "destination": "NRT",
+    "launch_date": "2027-03-28",
+    "frequency_per_week": 7,
+    "aircraft_type": "B787-9",
+    "block_minutes": 674,
+    "distance_km": 9318,
+    "status": "APPROVED",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  },
+  {
+    "route_launch_id": "NR002",
+    "origin": "MUC",
+    "destination": "BOS",
+    "launch_date": "2027-03-28",
+    "frequency_per_week": 5,
+    "aircraft_type": "A350-900",
+    "block_minutes": 458,
+    "distance_km": 6182,
+    "status": "APPROVED",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  },
+  {
+    "route_launch_id": "NR003",
+    "origin": "LIS",
+    "destination": "GRU",
+    "launch_date": "2027-05-03",
+    "frequency_per_week": 4,
+    "aircraft_type": "A330-900",
+    "block_minutes": 592,
+    "distance_km": 7934,
+    "status": "APPROVED",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  },
+  {
+    "route_launch_id": "NR004",
+    "origin": "FRA",
+    "destination": "DEL",
+    "launch_date": "2027-06-01",
+    "frequency_per_week": 4,
+    "aircraft_type": "A350-900",
+    "block_minutes": 454,
+    "distance_km": 6120,
+    "status": "PLANNED",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  },
+  {
+    "route_launch_id": "NR005",
+    "origin": "BCN",
+    "destination": "TLV",
+    "launch_date": "2027-03-28",
+    "frequency_per_week": 7,
+    "aircraft_type": "A321neo",
+    "block_minutes": 263,
+    "distance_km": 3081,
+    "status": "APPROVED",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  },
+  {
+    "route_launch_id": "NR006",
+    "origin": "CPH",
+    "destination": "KEF",
+    "launch_date": "2027-04-26",
+    "frequency_per_week": 5,
+    "aircraft_type": "A220-300",
+    "block_minutes": 196,
+    "distance_km": 2144,
+    "status": "PLANNED",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  },
+  {
+    "route_launch_id": "NR007",
+    "origin": "WAW",
+    "destination": "LCA",
+    "launch_date": "2027-05-01",
+    "frequency_per_week": 3,
+    "aircraft_type": "A320neo",
+    "block_minutes": 194,
+    "distance_km": 2169,
+    "status": "PLANNED",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  },
+  {
+    "route_launch_id": "NR008",
+    "origin": "ZRH",
+    "destination": "MIA",
+    "launch_date": "2027-09-01",
+    "frequency_per_week": 4,
+    "aircraft_type": "A350-900",
+    "block_minutes": 573,
+    "distance_km": 7845,
+    "status": "UNDER_REVIEW",
+    "expected_load_factor_ramp": "0.65 -> 0.80 over 6 months"
+  }
+]

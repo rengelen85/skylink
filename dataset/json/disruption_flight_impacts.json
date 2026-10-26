@@ -1,0 +1,6200 @@
+[
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL2012_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL812_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL2158_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1224_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1346_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1834_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1812_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL260_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL432_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1748_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL2096_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1440_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL502_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1496_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL2159_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1958_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL114_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL728_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1225_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1347_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1038_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1813_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL154_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1250_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL108_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1682_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1788_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL433_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL682_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1638_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1926_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS001",
+    "flight_id": "SL1441_20261026",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL387_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL887_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.86
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2069_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.98
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1345_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.9
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL315_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL679_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.72
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL555_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL598_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.81
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL236_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.96
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1890_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.8
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL182_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL400_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.82
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1478_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2126_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.88
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL240_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1946_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.97
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL820_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL458_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL546_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2106_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL666_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1362_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1684_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.77
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1562_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.91
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL350_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.84
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL778_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1108_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1178_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.93
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL599_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.74
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL890_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL928_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1494_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.89
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL992_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.71
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2080_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.89
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1060_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.73
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL886_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.91
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL226_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.97
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1532_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.8
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1828_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2010_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.85
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL386_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL578_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL910_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.84
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1900_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL237_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.96
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL183_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.82
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL706_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.87
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2004_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2152_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.84
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL848_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1947_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2030_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL241_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.73
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1479_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL344_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1652_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.95
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1685_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL667_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.85
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1500_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.93
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2107_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL250_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.97
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1891_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL547_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.75
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL764_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL606_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL914_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.75
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL821_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1666_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.78
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1109_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1563_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.9
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1038_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL401_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.9
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL993_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1179_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.77
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2127_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.78
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL351_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.79
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL779_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL579_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.78
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1996_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL227_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1062_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.74
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2005_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.96
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1363_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1626_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.94
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL849_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.87
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1074_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.96
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1061_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL612_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL707_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1628_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2081_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1090_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1533_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1936_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.72
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1653_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.73
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2153_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL911_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.88
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2068_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL929_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.89
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2031_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL891_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.83
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1039_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1495_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.88
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1901_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1020_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL980_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1324_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.81
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL459_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.81
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL607_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.73
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1852_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.81
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL345_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1667_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1829_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2022_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.9
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1501_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL456_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL915_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1997_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.75
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL208_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.78
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL251_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.75
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2011_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1620_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1063_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2132_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1075_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1629_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1091_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL765_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.9
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL766_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.95
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL876_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1690_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1853_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.77
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL870_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.82
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL816_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1698_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL696_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL613_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.98
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1937_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL462_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL500_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.88
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1980_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1804_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2023_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.85
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL457_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.71
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1627_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL981_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1248_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.74
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL650_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1808_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2098_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.84
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1856_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.87
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL209_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL836_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.73
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1621_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.87
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1021_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.77
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1692_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1325_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2133_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.91
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1691_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.88
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL877_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1668_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.76
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL428_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.93
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1546_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.71
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL871_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1146_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1476_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.84
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1820_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1805_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.77
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL817_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1972_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL314_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.96
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1699_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL106_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL618_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL651_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.84
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1981_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1344_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1088_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.8
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL248_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.81
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL726_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.77
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL501_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.77
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL767_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.79
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1576_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.87
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1809_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.98
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL463_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.85
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL697_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL837_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.81
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1718_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL678_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1662_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1998_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2066_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.83
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1249_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL442_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL554_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.72
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2099_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1857_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1693_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1821_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.83
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1669_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL249_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1477_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.86
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL429_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.92
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL727_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL619_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1147_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.95
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1547_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1089_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1973_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.96
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1999_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.75
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL443_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.86
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1719_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1577_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.98
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL2067_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL107_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1345_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL315_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.99
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL1663_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.88
+  },
+  {
+    "disruption_id": "DIS002",
+    "flight_id": "SL679_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2137_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL577_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL777_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL281_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1367_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL427_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL652_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1732_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL322_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1774_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.36
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL969_20261028",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL128_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2028_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1278_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1140_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1382_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2136_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1846_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2072_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1740_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2158_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL222_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL430_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL666_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1364_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL512_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1814_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL576_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1562_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1108_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1484_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL840_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1612_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2032_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL653_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1072_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL204_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1912_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1733_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1384_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL323_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL220_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1775_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1141_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL532_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1784_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL792_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1722_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1258_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1440_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2102_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1847_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL888_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2004_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2070_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2073_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL848_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL912_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2148_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1279_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1370_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2159_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1365_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL667_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2122_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1738_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.41
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL356_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL398_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.36
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1540_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL129_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1741_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1109_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.43
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2086_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1563_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL841_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1200_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL513_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2029_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL431_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL223_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.43
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1716_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL221_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.43
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1383_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1385_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL496_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1073_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL205_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL654_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1485_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1502_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2103_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1723_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1594_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2005_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL889_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1815_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1441_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1458_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2033_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL533_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2071_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.43
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL366_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1680_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL849_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1259_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1785_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL196_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL170_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL296_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL357_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL374_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1371_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL376_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.36
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2149_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2042_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1184_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1913_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL793_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL674_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1613_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2123_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2140_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL655_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.43
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1360_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL752_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1541_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2087_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL399_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1459_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1168_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1896_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL913_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1978_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL367_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1622_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL197_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.38
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL171_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1681_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL297_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1595_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL846_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1690_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.41
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1503_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL375_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2043_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1272_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1201_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL202_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1185_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL675_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL497_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.38
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL688_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2141_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1648_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1804_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1842_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL814_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1866_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.38
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL377_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL426_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1623_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1717_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL774_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1616_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL370_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL158_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1979_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL753_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL784_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1169_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL520_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1691_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1348_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL116_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1361_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL292_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL968_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL506_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1284_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL954_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1128_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1273_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1897_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL689_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1867_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1805_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1739_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.41
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL468_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1542_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL2137_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL280_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL714_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1649_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL248_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL577_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1490_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL371_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL775_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1154_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1366_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL776_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1718_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL282_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1998_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL847_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1843_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL950_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL507_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1617_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL785_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1492_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL203_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.41
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL521_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL955_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL117_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL326_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL402_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1349_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL815_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL469_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1285_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL249_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL159_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1129_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL951_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1543_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL293_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1999_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1493_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1719_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL283_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1155_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL715_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL1491_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL403_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL777_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS003",
+    "flight_id": "SL327_20261029",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL515_20261028",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL664_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL534_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1148_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1946_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1144_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1846_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1906_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1536_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL644_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL526_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL214_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL2146_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1784_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1252_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL535_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1847_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1122_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1149_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL758_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1726_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1947_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL962_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1370_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL665_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL759_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1145_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL2147_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL527_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL2118_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1854_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL215_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1123_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1785_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL645_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1253_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1371_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.15
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1907_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1727_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL963_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL444_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL346_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL266_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1537_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1114_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1526_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1855_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL2119_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL478_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL445_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL234_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.15
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1082_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.15
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL784_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1204_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1527_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL347_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1115_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL780_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1820_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL514_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL494_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL267_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL479_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL718_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1088_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1658_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL600_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL235_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL785_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL2114_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1205_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1821_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.15
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1659_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1083_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL781_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL1089_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL601_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL495_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL515_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL719_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS004",
+    "flight_id": "SL2115_20261029",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2135_20261111",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL511_20261111",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL639_20261111",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL960_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL670_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1824_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1704_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2076_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1614_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.41
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL190_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL574_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.51
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1768_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL242_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1720_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1160_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1300_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1684_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL956_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1280_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1752_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL204_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL270_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.38
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1384_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL432_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1214_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL226_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1825_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1396_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL742_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL796_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2077_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL962_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2046_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.38
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1615_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL575_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.43
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL794_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1208_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1685_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL191_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL498_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL961_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL671_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1705_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1721_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL548_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1385_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL433_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL205_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.36
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL654_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL227_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL830_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1412_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL743_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL797_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL243_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1753_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1769_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL964_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1281_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1301_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2047_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL957_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1397_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1776_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL122_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.38
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL499_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.36
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL963_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL470_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL392_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL674_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL684_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL655_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1514_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1962_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL795_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2134_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2022_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL549_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1174_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL965_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL570_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL831_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL390_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL712_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL852_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1620_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1215_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1076_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1102_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL393_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1584_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL710_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL870_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1209_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1963_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL675_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1777_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL688_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.68
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1413_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1264_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL2023_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL123_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL484_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.41
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1866_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL685_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1022_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL370_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL804_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL571_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1621_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL471_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1836_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL286_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL648_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL184_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1515_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL713_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL642_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1942_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL391_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1103_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1524_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1572_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL736_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1175_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL711_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1585_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL408_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL871_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL853_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL689_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1867_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.65
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL622_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL468_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1452_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1023_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL970_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.7
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1077_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.62
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL164_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL805_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1265_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL371_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL485_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL185_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL442_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.36
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1492_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL1573_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL690_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS005",
+    "flight_id": "SL638_20261112",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1051_20261116",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL737_20261116",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1796_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL670_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL856_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1438_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1797_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1318_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1404_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL671_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1134_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1398_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1092_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1439_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL132_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL898_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL986_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL857_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL750_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1506_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1228_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1405_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL133_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1319_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1093_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1618_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1744_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL899_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL2092_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL944_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1135_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1282_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL562_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1399_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1507_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1248_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL751_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1616_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1736_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL234_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1050_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL987_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL563_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL736_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL2093_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1619_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL945_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1229_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1745_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1617_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL235_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1249_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1737_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1283_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1051_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL737_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.15
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1796_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL670_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL856_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1438_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1797_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1318_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1404_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL671_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1134_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1398_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1092_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1439_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL132_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL898_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL986_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL857_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1506_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS006",
+    "flight_id": "SL1228_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL534_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1148_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1946_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1144_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1846_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1906_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1536_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL644_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.14
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL526_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL214_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.06
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL2146_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1784_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.06
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1252_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL535_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1847_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1122_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1149_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL758_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.14
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1726_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1947_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL962_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1370_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL665_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL759_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1145_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL2147_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL527_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL2118_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1854_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL215_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1123_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.07
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1785_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL645_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1253_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1371_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1907_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1727_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL963_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL444_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.07
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL346_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL266_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1537_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1114_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1526_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1855_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL2119_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL478_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL445_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.06
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL234_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1082_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL784_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1204_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1527_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL347_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1115_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.06
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL780_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.06
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1820_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.07
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL514_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL494_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL267_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL479_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL718_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1088_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1658_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL600_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.06
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL235_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL785_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL2114_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1205_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1821_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1659_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.07
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1083_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.09
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL781_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.14
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1089_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL601_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.13
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL495_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.06
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL515_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL719_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.08
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL2115_20261117",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.1
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL664_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL534_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.11
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1148_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.14
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1946_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.07
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1144_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.12
+  },
+  {
+    "disruption_id": "DIS007",
+    "flight_id": "SL1906_20261118",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.14
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1002_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.6
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL323_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL237_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1032_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.64
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL502_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1308_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1171_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL835_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1891_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.52
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL474_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL728_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL754_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL398_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.57
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1003_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.69
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1191_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL2163_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1006_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.44
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL223_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL379_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.67
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL252_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1747_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.41
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL845_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL438_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL864_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.37
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL503_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL747_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL366_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1417_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL879_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL729_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1298_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL374_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL475_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.39
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL980_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL460_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.59
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1309_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL399_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1860_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.42
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL228_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL253_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.55
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL755_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1974_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.47
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL367_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.4
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1744_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL439_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1299_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL2016_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.53
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1007_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.5
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL865_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL375_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1272_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.61
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1698_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.45
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL461_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.49
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1070_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.54
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL824_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.48
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1436_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.58
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1861_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.56
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL774_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.63
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1844_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.66
+  },
+  {
+    "disruption_id": "DIS008",
+    "flight_id": "SL1762_20261120",
+    "impact_type": "CANCELLATION_RISK",
+    "risk_score": 0.46
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1047_20261104",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL941_20261104",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1011_20261104",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1558_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.15
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL640_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.17
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1140_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL276_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1240_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL916_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1380_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL178_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1288_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1192_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1512_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1352_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1470_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1346_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL368_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1014_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1812_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1072_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1733_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1241_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL2146_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL934_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1141_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1314_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1368_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1518_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL578_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL535_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1559_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL706_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL2046_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.24
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1340_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1734_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL179_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1600_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1513_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1347_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1666_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1471_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL416_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL628_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1813_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1092_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1250_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1289_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1016_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1193_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1381_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1353_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1073_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.3
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL579_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1315_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL132_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1516_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL369_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1432_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1156_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1015_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL964_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL935_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL641_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL2147_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1046_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1458_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL2047_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.2
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1369_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1756_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.25
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1530_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL707_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.32
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1341_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1519_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL750_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.22
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1735_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.31
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL304_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.16
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL582_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1251_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1017_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1322_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1601_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.15
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1517_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1254_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.35
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1667_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.29
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL748_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1150_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.34
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1459_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.18
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL965_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.23
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL802_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1433_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.26
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL133_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.33
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1093_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.28
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1162_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.27
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL278_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.21
+  },
+  {
+    "disruption_id": "DIS009",
+    "flight_id": "SL1102_20261105",
+    "impact_type": "DELAY_RISK",
+    "risk_score": 0.19
+  }
+]
