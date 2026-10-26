@@ -39,7 +39,7 @@ Synthetic data for the *Intelligent Operations Resource Management* challenge. E
 | `maintenance_assignments` | Allocation | 5,218 | Engineer assignments for activities starting within 28 days; UNFILLED rows are open positions. |
 | `availability_events` | Allocation | 148,812 | 149k vacation, sickness, parental/unpaid leave and training commitments. Only APPROVED/ACTIVE/RECORDED/ENROLLED block availability; PENDING does not. |
 | `training_enrollments` | Allocation | 38,487 | 38k enrolments linked to sessions (renewal-driven). |
-| `disruptions` | Disruptions | 19 | 19 events: 1 active (fog ZRH), 7 forecast (Storm Aurelia, ATC strike, snow, strike, IT outage), 10 historical. |
+| `disruptions` | Disruptions | 19 | 19 events: 1 active (fog ZRH), 8 forecast (Storm Aurelia at AMS/FRA/CPH, ATC strike, snow at ARN/CPH, ground strike, IT outage), 10 historical. |
 | `disruption_flight_impacts` | Disruptions | 1,033 | Flights potentially hit by each disruption with a risk score. |
 | `calendar` | Time | 1,461 | Date dimension 2024-2027: day/week/month/quarter, IATA season, peak flag, seasonal demand index. |
 | `network_plan_monthly` | Forecasting | 210 | Nov 2026 - Dec 2027 planned flights and low/base/high passenger forecast per hub (commercial baseline). |
@@ -72,16 +72,16 @@ disruption_flight_impacts.(disruption_id, flight_id) -> disruptions, flights ; n
 
 - **Understaffed**: Rome (FCO) cabin crew (~100% utilization), Athens (ATH) ground staff (>120%), Barcelona (BCN) pilots (~93%), Paris (CDG) ops coordinators (~97%), Madrid (MAD) engineers.
 - **Spare capacity**: Warsaw (WAW) pilots (~65%), Stockholm (ARN) ground staff (~59%), Lisbon (LIS) cabin crew.
-- **Seasonality**: summer 2027 plan is ~22% above winter; pending (not yet approved) vacations pile up for Jul-Aug 2027, so approved supply looks better than it will be. Flu season raises sickness in Nov-Feb.
+- **Seasonality**: summer 2027 is ~22% above the annual baseline (`seasonal_index` 1.22 in Jul-Aug; planned flights are ~45% above Nov-Feb); pending (not yet approved) vacations pile up for Jul-Aug 2027, so approved supply looks better than it will be. Flu season raises sickness in Nov-Feb.
 - **Disruptions**: fog at ZRH today, Storm Aurelia on AMS/FRA/CPH 29-30 Oct (severe at AMS), French ATC strike 12 Nov, snow in ARN/CPH 17 Nov, Italian ground-handling strike 20 Nov.
 - **Aircraft**: 12 AOG aircraft and ~22 in heavy maintenance right now; 100 deferred defects due within 4 weeks.
-- **Compliance**: ~3,000 expired and ~11,500 expiring-within-60-days skills; ~1,900 renewals have no training session yet. 125 flight crew slots and 48 maintenance slots are UNFILLED, mostly pilots at MAD, LIS and ARN.
+- **Compliance**: ~3,000 expired and ~11,500 expiring-within-60-days skills; ~1,900 renewals have no training session yet. 125 flight crew slots and 50 maintenance slots are UNFILLED, mostly pilots at MAD, LIS and ARN.
 - **Expansion**: 8 new routes (launching from 28 Mar 2027) and 3 candidate hubs, for the forecasting and what-if questions.
 
 ## Simplifications and caveats (tell the teams)
 
 - Data is synthetic. Names, events and figures are illustrative; flight patterns do not mirror any real airline's schedule.
-- Aircraft rotations are plausible but not guaranteed feasible (about 376 flights start from an airport where the planned tail is not positioned). Crew positioning is ignored; crews are assigned from the flight's crew base hub.
+- Aircraft rotations are plausible but not guaranteed feasible (about 377 flights start from an airport where the planned tail is not positioned). Crew positioning is ignored; crews are assigned from the flight's crew base hub.
 - Flight crew rosters cover only the first 14 days; flights in days 15-28 have demand but no assignments by design.
 - Regulatory rules are simplified and not legal advice. Flight hour caps in `monthly_capacity_hours` are planning values.
 - `TR_CONV`, `MX_TYPE` and `PURSER` training sessions have no enrolments yet (open capacity for scenario work).

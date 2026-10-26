@@ -15890,20 +15890,6 @@
     "aog_flag": 0
   },
   {
-    "activity_id": "MX002427",
-    "tail_number": "CS-LOY",
-    "activity_type": "C_CHECK",
-    "description": "Heavy maintenance C-check (base maintenance)",
-    "facility_id": "MF-LIS-BASE",
-    "hub": "LIS",
-    "planned_start_utc": "2026-09-19T06:00:00Z",
-    "planned_end_utc": "2026-10-12T06:00:00Z",
-    "estimated_man_hours": 5262,
-    "priority": "ROUTINE",
-    "status": "COMPLETED",
-    "aog_flag": 0
-  },
-  {
     "activity_id": "MX003679",
     "tail_number": "SE-TMZ",
     "activity_type": "UNSCHEDULED_DEFECT",
@@ -17052,6 +17038,20 @@
     "aog_flag": 0
   },
   {
+    "activity_id": "MX002427",
+    "tail_number": "CS-LOY",
+    "activity_type": "C_CHECK",
+    "description": "Heavy maintenance C-check (base maintenance)",
+    "facility_id": "MF-LIS-BASE",
+    "hub": "LIS",
+    "planned_start_utc": "2026-09-24T06:00:00Z",
+    "planned_end_utc": "2026-10-17T06:00:00Z",
+    "estimated_man_hours": 5262,
+    "priority": "ROUTINE",
+    "status": "COMPLETED",
+    "aog_flag": 0
+  },
+  {
     "activity_id": "MX003731",
     "tail_number": "SE-LVL",
     "activity_type": "UNSCHEDULED_DEFECT",
@@ -17426,20 +17426,6 @@
     "planned_end_utc": "2026-09-26T04:34:00Z",
     "estimated_man_hours": 10,
     "priority": "HIGH",
-    "status": "COMPLETED",
-    "aog_flag": 0
-  },
-  {
-    "activity_id": "MX002926",
-    "tail_number": "PH-JLU",
-    "activity_type": "C_CHECK",
-    "description": "Heavy maintenance C-check (base maintenance)",
-    "facility_id": "MF-AMS-BASE",
-    "hub": "AMS",
-    "planned_start_utc": "2026-09-26T06:00:00Z",
-    "planned_end_utc": "2026-10-12T06:00:00Z",
-    "estimated_man_hours": 6702,
-    "priority": "ROUTINE",
     "status": "COMPLETED",
     "aog_flag": 0
   },
@@ -19852,6 +19838,20 @@
     "aog_flag": 0
   },
   {
+    "activity_id": "MX002926",
+    "tail_number": "PH-JLU",
+    "activity_type": "C_CHECK",
+    "description": "Heavy maintenance C-check (base maintenance)",
+    "facility_id": "MF-AMS-BASE",
+    "hub": "AMS",
+    "planned_start_utc": "2026-10-09T06:00:00Z",
+    "planned_end_utc": "2026-10-25T06:00:00Z",
+    "estimated_man_hours": 6702,
+    "priority": "ROUTINE",
+    "status": "COMPLETED",
+    "aog_flag": 0
+  },
+  {
     "activity_id": "MX003847",
     "tail_number": "PH-CSL",
     "activity_type": "UNSCHEDULED_DEFECT",
@@ -20521,20 +20521,6 @@
     "estimated_man_hours": 45,
     "priority": "HIGH",
     "status": "COMPLETED",
-    "aog_flag": 0
-  },
-  {
-    "activity_id": "MX003024",
-    "tail_number": "PH-JGR",
-    "activity_type": "C_CHECK",
-    "description": "Heavy maintenance C-check (base maintenance)",
-    "facility_id": "MF-AMS-BASE",
-    "hub": "AMS",
-    "planned_start_utc": "2026-10-12T06:00:00Z",
-    "planned_end_utc": "2026-11-03T06:00:00Z",
-    "estimated_man_hours": 5426,
-    "priority": "ROUTINE",
-    "status": "IN_PROGRESS",
     "aog_flag": 0
   },
   {
@@ -22479,6 +22465,20 @@
     "planned_start_utc": "2026-10-22T06:00:00Z",
     "planned_end_utc": "2026-11-11T06:00:00Z",
     "estimated_man_hours": 5005,
+    "priority": "ROUTINE",
+    "status": "IN_PROGRESS",
+    "aog_flag": 0
+  },
+  {
+    "activity_id": "MX003024",
+    "tail_number": "PH-JGR",
+    "activity_type": "C_CHECK",
+    "description": "Heavy maintenance C-check (base maintenance)",
+    "facility_id": "MF-AMS-BASE",
+    "hub": "AMS",
+    "planned_start_utc": "2026-10-22T06:00:00Z",
+    "planned_end_utc": "2026-11-13T06:00:00Z",
+    "estimated_man_hours": 5426,
     "priority": "ROUTINE",
     "status": "IN_PROGRESS",
     "aog_flag": 0
@@ -36232,20 +36232,6 @@
     "aog_flag": 0
   },
   {
-    "activity_id": "MX002213",
-    "tail_number": "EC-KJU",
-    "activity_type": "C_CHECK",
-    "description": "Heavy maintenance C-check (base maintenance)",
-    "facility_id": "MF-MAD-BASE",
-    "hub": "MAD",
-    "planned_start_utc": "2027-03-05T06:00:00Z",
-    "planned_end_utc": "2027-04-10T06:00:00Z",
-    "estimated_man_hours": 9255,
-    "priority": "ROUTINE",
-    "status": "PLANNED",
-    "aog_flag": 0
-  },
-  {
     "activity_id": "MX000574",
     "tail_number": "EI-IVV",
     "activity_type": "A_CHECK",
@@ -36484,6 +36470,20 @@
     "aog_flag": 0
   },
   {
+    "activity_id": "MX002355",
+    "tail_number": "EC-MQM",
+    "activity_type": "C_CHECK",
+    "description": "Heavy maintenance C-check (base maintenance)",
+    "facility_id": "MF-MAD-BASE",
+    "hub": "MAD",
+    "planned_start_utc": "2027-03-08T06:00:00Z",
+    "planned_end_utc": "2027-04-03T06:00:00Z",
+    "estimated_man_hours": 15249,
+    "priority": "ROUTINE",
+    "status": "PLANNED",
+    "aog_flag": 0
+  },
+  {
     "activity_id": "MX000727",
     "tail_number": "F-HFLS",
     "activity_type": "A_CHECK",
@@ -36694,20 +36694,6 @@
     "aog_flag": 0
   },
   {
-    "activity_id": "MX002823",
-    "tail_number": "EC-JIK",
-    "activity_type": "C_CHECK",
-    "description": "Heavy maintenance C-check (base maintenance)",
-    "facility_id": "MF-MAD-BASE",
-    "hub": "MAD",
-    "planned_start_utc": "2027-03-11T06:00:00Z",
-    "planned_end_utc": "2027-03-29T06:00:00Z",
-    "estimated_man_hours": 4623,
-    "priority": "ROUTINE",
-    "status": "PLANNED",
-    "aog_flag": 0
-  },
-  {
     "activity_id": "MX001888",
     "tail_number": "OY-FHE",
     "activity_type": "A_CHECK",
@@ -36736,15 +36722,15 @@
     "aog_flag": 0
   },
   {
-    "activity_id": "MX002355",
-    "tail_number": "EC-MQM",
+    "activity_id": "MX002823",
+    "tail_number": "EC-JIK",
     "activity_type": "C_CHECK",
     "description": "Heavy maintenance C-check (base maintenance)",
     "facility_id": "MF-MAD-BASE",
     "hub": "MAD",
     "planned_start_utc": "2027-03-12T06:00:00Z",
-    "planned_end_utc": "2027-04-07T06:00:00Z",
-    "estimated_man_hours": 15249,
+    "planned_end_utc": "2027-03-30T06:00:00Z",
+    "estimated_man_hours": 4623,
     "priority": "ROUTINE",
     "status": "PLANNED",
     "aog_flag": 0
@@ -39741,6 +39727,20 @@
     "planned_start_utc": "2027-04-13T06:00:00Z",
     "planned_end_utc": "2027-05-05T06:00:00Z",
     "estimated_man_hours": 6678,
+    "priority": "ROUTINE",
+    "status": "PLANNED",
+    "aog_flag": 0
+  },
+  {
+    "activity_id": "MX002213",
+    "tail_number": "EC-KJU",
+    "activity_type": "C_CHECK",
+    "description": "Heavy maintenance C-check (base maintenance)",
+    "facility_id": "MF-MAD-BASE",
+    "hub": "MAD",
+    "planned_start_utc": "2027-04-13T06:00:00Z",
+    "planned_end_utc": "2027-05-19T06:00:00Z",
+    "estimated_man_hours": 9255,
     "priority": "ROUTINE",
     "status": "PLANNED",
     "aog_flag": 0
@@ -44856,20 +44856,6 @@
     "aog_flag": 0
   },
   {
-    "activity_id": "MX002442",
-    "tail_number": "CS-REN",
-    "activity_type": "C_CHECK",
-    "description": "Heavy maintenance C-check (base maintenance)",
-    "facility_id": "MF-LIS-BASE",
-    "hub": "LIS",
-    "planned_start_utc": "2027-06-11T06:00:00Z",
-    "planned_end_utc": "2027-07-08T06:00:00Z",
-    "estimated_man_hours": 15592,
-    "priority": "ROUTINE",
-    "status": "PLANNED",
-    "aog_flag": 0
-  },
-  {
     "activity_id": "MX000407",
     "tail_number": "SE-HGS",
     "activity_type": "A_CHECK",
@@ -48589,6 +48575,20 @@
     "planned_start_utc": "2027-07-21T22:00:00Z",
     "planned_end_utc": "2027-07-22T05:00:00Z",
     "estimated_man_hours": 143,
+    "priority": "ROUTINE",
+    "status": "PLANNED",
+    "aog_flag": 0
+  },
+  {
+    "activity_id": "MX002442",
+    "tail_number": "CS-REN",
+    "activity_type": "C_CHECK",
+    "description": "Heavy maintenance C-check (base maintenance)",
+    "facility_id": "MF-LIS-BASE",
+    "hub": "LIS",
+    "planned_start_utc": "2027-07-22T06:00:00Z",
+    "planned_end_utc": "2027-08-18T06:00:00Z",
+    "estimated_man_hours": 15592,
     "priority": "ROUTINE",
     "status": "PLANNED",
     "aog_flag": 0

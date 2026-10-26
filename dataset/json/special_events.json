@@ -18,7 +18,7 @@
     "end_date": "2026-12-23",
     "expected_additional_passengers": 80000,
     "expected_additional_flights_per_day": 18,
-    "ground_staff_uplift_pct": 15,
+    "ground_staff_uplift_pct": 8,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -40,7 +40,7 @@
     "end_date": "2027-01-10",
     "expected_additional_passengers": 60000,
     "expected_additional_flights_per_day": 14,
-    "ground_staff_uplift_pct": 10,
+    "ground_staff_uplift_pct": 15,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -51,7 +51,7 @@
     "end_date": "2027-02-28",
     "expected_additional_passengers": 35000,
     "expected_additional_flights_per_day": 10,
-    "ground_staff_uplift_pct": 15,
+    "ground_staff_uplift_pct": 10,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -62,7 +62,7 @@
     "end_date": "2027-03-04",
     "expected_additional_passengers": 60000,
     "expected_additional_flights_per_day": 16,
-    "ground_staff_uplift_pct": 8,
+    "ground_staff_uplift_pct": 10,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -73,7 +73,7 @@
     "end_date": "2027-04-05",
     "expected_additional_passengers": 120000,
     "expected_additional_flights_per_day": 30,
-    "ground_staff_uplift_pct": 10,
+    "ground_staff_uplift_pct": 8,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -84,7 +84,7 @@
     "end_date": "2027-04-26",
     "expected_additional_passengers": 25000,
     "expected_additional_flights_per_day": 6,
-    "ground_staff_uplift_pct": 15,
+    "ground_staff_uplift_pct": 8,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -95,7 +95,7 @@
     "end_date": "2027-08-29",
     "expected_additional_passengers": 55000,
     "expected_additional_flights_per_day": 14,
-    "ground_staff_uplift_pct": 10,
+    "ground_staff_uplift_pct": 5,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -106,7 +106,7 @@
     "end_date": "2027-08-31",
     "expected_additional_passengers": 220000,
     "expected_additional_flights_per_day": 40,
-    "ground_staff_uplift_pct": 10,
+    "ground_staff_uplift_pct": 8,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
@@ -117,7 +117,7 @@
     "end_date": "2027-02-07",
     "expected_additional_passengers": 30000,
     "expected_additional_flights_per_day": 8,
-    "ground_staff_uplift_pct": 10,
+    "ground_staff_uplift_pct": 8,
     "notes": "Synthetic event; all figures illustrative"
   },
   {
