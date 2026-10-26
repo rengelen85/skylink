@@ -233,13 +233,12 @@ for a in aircraft:
         bases = [b for b in BASES if fam in BASE_FAMS[b]]
         base = a["home_hub"] if a["home_hub"] in bases else rc(bases, [BASES[b] for b in bases])
         dur = random.randint(22, 36) if wide else random.randint(14, 24)
-        for _ in range(40):
-            if all(bay_occ[(base, cd + timedelta(days=k))] < BASES[base] for k in range(dur)): break
-            cd += timedelta(days=1)
-        for k in range(dur): bay_occ[(base, cd + timedelta(days=k))] += 1
-        s = datetime(cd.year, cd.month, cd.day, 6); e = s + timedelta(days=dur)
-        add_act(a["tail_number"], "C_CHECK", "Heavy maintenance C-check (base maintenance)", f"MF-{base}-BASE", s, e,
-                random.randint(9000, 16000) if wide else random.randint(4500, 7500), "ROUTINE")
+        while cd <= PLAN_END and not all(bay_occ[(base, cd + timedelta(days=k))] < BASES[base] for k in range(dur)): cd += timedelta(days=1)
+        if cd <= PLAN_END:   # no free bay window before the end of the plan -> no C-check is booked (never over-subscribe a hangar)
+            for k in range(dur): bay_occ[(base, cd + timedelta(days=k))] += 1
+            s = datetime(cd.year, cd.month, cd.day, 6); e = s + timedelta(days=dur)
+            add_act(a["tail_number"], "C_CHECK", "Heavy maintenance C-check (base maintenance)", f"MF-{base}-BASE", s, e,
+                    random.randint(9000, 16000) if wide else random.randint(4500, 7500), "ROUTINE")
 DEFECTS = ["Hydraulic leak investigation", "Bird strike inspection", "Tyre and brake change", "Engine borescope inspection",
            "APU fault rectification", "Lightning strike inspection", "Avionics fault (FMS)", "Cabin pressurisation fault",
            "Landing gear sensor fault", "Cargo door actuator replacement", "Air-conditioning pack fault", "Windshield crack replacement"]
@@ -487,7 +486,7 @@ def give(e, sid, level=None):
         if r < .015: exp = TODAY - timedelta(days=random.randint(1, 120))
         elif r < .075: exp = TODAY + timedelta(days=random.randint(0, 60))
         else: exp = TODAY + timedelta(days=random.randint(61, mths * 30))
-        obt = exp - timedelta(days=mths * 30 - random.randint(0, 20))
+        obt = min(exp - timedelta(days=mths * 30 - random.randint(0, 20)), TODAY - timedelta(days=1))   # cannot be obtained in the future
         stt = "EXPIRED" if exp < TODAY else ("EXPIRING_SOON" if exp <= TODAY + timedelta(days=60) else "VALID")
         EXP[e["employee_id"]][sid] = exp; ex = exp.isoformat()
     else:
@@ -879,7 +878,7 @@ while (y, m) <= (2026, 9):
             hist.append(dict(month=f"{y}-{m:02d}", hub=h, role=r, flights=int(fl), passengers=int(fl * AVGSEAT * SEAS_LF[m] * random.uniform(.98, 1.02)), demand_hours=int(dem),
                              available_hours=int(avail), utilization_pct=round(u * 100, 1), sickness_rate_pct=round((SICKR[m] + random.uniform(-.006, .006)) * 100, 2),
                              overtime_hours=int(ot), cancelled_flights=int(fl * (.004 + .05 * max(0, u - .92)) * random.uniform(.6, 1.4)),
-                             delayed_flights_pct=round(14 + 20 * max(0, u - .85) * 100 / 10 + random.uniform(-2, 2), 1)))
+                             delayed_flights_pct=round(min(100.0, 14 + 20 * max(0, u - .85) * 100 / 10 + random.uniform(-2, 2)), 1)))
     m += 1; y, m = (y + 1, 1) if m == 13 else (y, m)
 T["monthly_operations_history"] = hist
 bud = []; y, m = 2026, 1
